@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Power from on high, or, The power of the Holy Ghost dispersed through the whole body of Christ, and communicated to each member according to its place and use in that body. Delivered in two sermons, on Acts 1.8. and now published, for the insturction [sic] and use of those that are spirituall. / By William Dell: minister of the gospel of Jesus Christ at Yelden in the county of Bedford.</title>
+            <author>Dell, William, d. 1664.</author>
+         </titleStmt>
+         <extent>Approx. 120 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82316</idno><idno type="EEBO-CITATION">99860849</idno>
+  <idno type="VID">158478</idno>
+  <idno type="EEBO-PROQUEST">2240884350</idno>
+  
+            <idno type="STC">Wing D925</idno>
+            <idno type="STC">Thomason E282_8</idno>
+            <idno type="STC">ESTC R200046</idno>
+            <idno type="PROQUEST">99860849</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860849e"/>
+            <note>(EEBO-TCP ; phase 2, no. A82316)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158478)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 47:E282[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Power from on high, or, The power of the Holy Ghost dispersed through the whole body of Christ, and communicated to each member according to its place and use in that body. Delivered in two sermons, on Acts 1.8. and now published, for the insturction [sic] and use of those that are spirituall. / By William Dell: minister of the gospel of Jesus Christ at Yelden in the county of Bedford.</title>
+                  <author>Dell, William, d. 1664.</author>
+               </titleStmt>
+               <extent>[12], 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Overton, and are to be sold at his shop in Popes-head Alley.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  N.T. --  Acts I, 8 --  Sermons.</term>
+               <term type="topical_term">Holy Spirit --  Sermons --  Early works to 1800.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158478:1"/>
+            <p>
+               <hi>Power from on High,</hi> OR, THE POWER OF THE HOLY GHOST DISPERSED Through the whole body of Christ, and com<g ref="char:EOLhyphen"/>municated to each Member according to its place and use in that body.</p>
+            <p>Delivered in two Sermons, on <hi>Acts</hi> 1.8. and now published, for the insturction and use of those that are Spirituall.</p>
+            <p>By WILLIAM DELL: Minister of the Gospel of JESUS CHRIST at <hi>Yelden</hi> in the County of Bedford.</p>
+            <q>
+               <bibl>
+                  <hi>1. COR. 4.19, 20.</hi>
+               </bibl>
+               <p>I will come to you shortly if the Lord will and will, know not the speech of them that are puffed up, but the power.</p>
+               <p>For the Kingdome of God is not in word but in power.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>2 TIM. 3.5.</hi>
+               </bibl>
+               <p>— Having a forme of Godlinesse but denying the power of it; from such turne away.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for HENRY OVERTON, and are to be sold at his Shop in <hi>Popes</hi>-head-Alley. 1645.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:158478:2"/>
+            <pb facs="tcp:158478:2"/>
+            <head>TO THE RIGHT HONOVRABLE the Lady ELIZABETH Countesse of BULLINGBROOK.</head>
+            <opener>
+               <salute>RIGHT HONOURABLE,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He form of Godlinesse is very common in these dayes of ours, but the power of it, is very rare. How few persons shall we finde in the visible Church who live and act in the strength of God? But generally, men do, what ever they do, in their own strength, and that not onely in humane things but in divine. How seldome do we see, either in Ministers or Christians, in the dis<g ref="char:EOLhyphen"/>charge of their duties in their severall places, more then the power of men? The greatest part by farre, not one<g ref="char:EOLhyphen"/>ly of those who are called Christians, but also of for<g ref="char:EOLhyphen"/>ward professors, being ignorant what it is to be streng<g ref="char:EOLhyphen"/>thened with might in the inner man, according to the glorious power of the great God. How little is there (among all our plenty) of that preaching, which is not in the plausible words of mans wisedome, but in the de<g ref="char:EOLhyphen"/>monstration of the Spirit and Power? How few Con<g ref="char:EOLhyphen"/>gregations (among the many that are in the Kingdome) are gathered together in the Spirit and Power of our
+<pb facs="tcp:158478:3"/>Lord Jesus Christ? How few of those Christians are there, in whom is the exceeding greatnesse of Gods power, together with the effectuall working of it? But the form of Godlinesse, is now become, almost the co<g ref="char:EOLhyphen"/>vering of all flesh, and in these dayes of light and know<g ref="char:EOLhyphen"/>ledge, it is accounted by all (that are not-down-right Atheists) a great shame not to seem to be religious. And when men, and families, and congregations, are gotten into this form, they think themselves both safe and happie, as being near the suburbs of the Kingdome of God, and close neighbours to the Saints. And this form of godlinesse, as it is of very easie compliance with flesh and bloud, in this particular, in that accor<g ref="char:EOLhyphen"/>ding to this, men onely make their actions new, retain<g ref="char:EOLhyphen"/>ing still their old natures; so it is also of great credit and esteem with carnall Gospellers. But the spirituall man judgeth all things, and yet he himself is judged of no man: and he being partaker of the power of God himself, can in some measure discern both the presence and want of it in others, both which he knowes in his own experience.</p>
+            <p>Now this form of godlinesse is, when men are godly without God, and anointed without Christ, and rege<g ref="char:EOLhyphen"/>nerate not having the Spirit, that is, when they have a semblance of holinesse, but not the thing it self: a sem<g ref="char:EOLhyphen"/>blance of grace, retaining their old natures. And such Christians as these perform spirituall duties with natu<g ref="char:EOLhyphen"/>rall strength, heavenly duties with earthly strength, the workes of God, with the power of men. In the Religion of these men, there is the outward duty done, and it may be very speciously and plausibly, but there is none of Christ, nor the Spirit in the duty. There is their owne working towards God which is faint and faithlesse, and
+<pb facs="tcp:158478:3"/>not Gods own working in them towards himself, which is lively and mighty: and all the religious acts they do are onely their own operations, and not the operations of God in them.</p>
+            <p>This form of godlinesse, how pleasing soever it be to mans self, and of what reckoning soever with others, who are like himself, yet is indeed of very evill and wo<g ref="char:EOLhyphen"/>full consequence, whether we regard the doings or suf<g ref="char:EOLhyphen"/>ferings, unto which this form necessarily ingages.</p>
+            <p>For first, when men by occasion of this form, are cal<g ref="char:EOLhyphen"/>led forth to do the great workes of God, and yet are de<g ref="char:EOLhyphen"/>stitute of the power of God, their duties are above their strength, and their strength beares no proportion to to their duttes. And so sooner or later, meeting with difficulties, they faint, and languish as a Shail, their workes being too high for their faculties. For nature being strained above its power, and offering at that which is beyond its abilities, by degrees growes wea<g ref="char:EOLhyphen"/>rie, and returnes to its old temper again. And he that sought that glory which was not his own, at last lyes down in his own shame.</p>
+            <p>Again, the form of godlinesse exposes a man to those evils, that are incident to the faithfull because of godli<g ref="char:EOLhyphen"/>nesse. Now when a man hath the same evils, with the faithfull, and not the same power to support them un<g ref="char:EOLhyphen"/>der those evils; when men have the same evils in the flesh, but not th<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> same power in the spirit, the same burthens on their shoulders, but not the same everlast<g ref="char:EOLhyphen"/>ing armes underneath them, they fall sadly and despe<g ref="char:EOLhyphen"/>rately, to the great scandall of the wayes of God.</p>
+            <p>However, if men be not called forth to such eminent doings and sufferings, and so scape such manifest disco<g ref="char:EOLhyphen"/>veries and downfals, yet the form of godlinesse hath this
+<pb facs="tcp:158478:4"/>evill in it, That it brings a man onely to the trouble<g ref="char:EOLhyphen"/>some part of Religion, but not to the comfortable; it ingages a man in the same duties with the godly, but supplies him not with the same strength; it involves him in the same bitternesse of flesh, but doth not furnish him with the same joy of spirit. For as such a mans Religion doth not reach above flesh and bloud, no more doth his strength and comforts. And so he performes duties at a low rate; yea and his beare and empty forme, casts a blacke vaile upon religion, and utterly obscures its beauty, &amp; glory, and makes the world judge meanly of it, and to thinke it a matter onely of singularity and hu<g ref="char:EOLhyphen"/>mour and not of power. Whereas when a christian walkes in the strength of the Spirit, doing and suffering the will of God, beyond all strength and abilities of flesh and blood, the world often times wonders and gazes at him, and many are provoked to glorifie God, who hath given such power to men.</p>
+            <p>For this power of Godlinesse among other things hath these three advantages.</p>
+            <p n="1">1 It makes a man do every duty strongly and migh<g ref="char:EOLhyphen"/>tily. And whatever might take a man off from duty or distract and disturbe him in it, all falls to nothing before this power. There is that strength in each duty performed by the power of the anoynting, which de<g ref="char:EOLhyphen"/>clares it to be the operation of God himselfe in man, and nothing else but the very power of God, that is Je<g ref="char:EOLhyphen"/>sus Christ himselfe, in action in us.</p>
+            <p n="2">2. It makes a man inflexible in the waies of God, that he shall neither turne to the right hand, nor to the left, but take straight stepts towards the marke set before him. No feare nor favours, nor frownes nor flatteries, nor temptations nor insinuations, nor designes of others, nor ends of his owne can turne him aside. He carries
+<pb facs="tcp:158478:4"/>such strength in his Spirit as he can never be bended, and so far forth as he partakes of the power of God, is as unmoveable and unchangeable as God himselfe.</p>
+            <p n="3">3. It makes a man invincible by all evills and ene<g ref="char:EOLhyphen"/>mies. Because all the power against him is but the pow<g ref="char:EOLhyphen"/>er of the creature, but the power in him is the power of God. And the power of God easily overcomes the mightiest power of the creature, but is never overcome by it. And if this power in a Christian should be pre<g ref="char:EOLhyphen"/>vailed against, God himselfe who is that power, should be conquered, which is impossible.</p>
+            <p>To conclude, the power of godlinesse, is the doer of every duty, in Gods Kingdome, the subduer of every sin, the conquerour of each tribulation and temptation, the life of every performance, the glory of each grace, the beauty of a Christians life, the stability of his conversation, the lustre of his Religion, his great Ho<g ref="char:EOLhyphen"/>nour and excellencie both in doing and suffering, yea it is the very glory of God himselfe in the Church of God, for by faith, the Lord arises on us, and by this power of godlinesse, his glory is seen upon us.</p>
+            <p>These considerations, right honourable, moved me to discourse of the power of the Holy Ghost comming on all Christians, Ministers and people. And besides the importunitie of some other friends, your Honours earnest desires of these notes, hath especially prevailed with me to publish them. Not that I am worthy to pub<g ref="char:EOLhyphen"/>lish any thing, but that the truth of God is worthy to be published be the instrument never so mean and un<g ref="char:EOLhyphen"/>worthy. And although I well know the doubtfull suc<g ref="char:EOLhyphen"/>cesse of such undertakings as these, yet in this matter I am not at all carefull, being most willing to be bound up in one condition with the truth of God, and to have with it the same common friends and enemies. Besides,
+<pb facs="tcp:158478:5"/>if Christ dwell in my heart by faith, I carry in my bo<g ref="char:EOLhyphen"/>some already, my reward, out of whom I neither re<g ref="char:EOLhyphen"/>gard praise or dispraise, good or evill.</p>
+            <p>Now I was bold to prefixe your Honours name to these Notes, because your desire of them, hath made them yours, and also your many noble favours a strong and continuall ingagement, for me to serve you, ac<g ref="char:EOLhyphen"/>cording to what God hath made me. Especially I re<g ref="char:EOLhyphen"/>member your extraordinary compassion, and bowells towards me, in the day of deepest distresse, when my soule drew neere to the pit, and the shadow of death sate upon my eye lids, and I had not the least drop of comfort either from earth or heaven. Your honor then shewed me the kindnesse of the Lord, and incompassed me both with your pitty and goodnesse, though then through bitternesse of spirit I tasted it not. Wherefore when I remember the wonderfull goodnesse of God to me after so great sorrow and darknesse, I cannot for<g ref="char:EOLhyphen"/>get that part of his goodnesse, which he was pleased to administer to me by your Honours hands; And the re<g ref="char:EOLhyphen"/>membrance of this causes me to pray, that God would double the same goodnesse on you, and that he would poure forth upon my Lord, your Honour, your noble off-spring &amp; family, this power of the Holy Ghost, here treated of: which shall render you a thousand times more precious and excellent before God and his Saints, then all worldly Honour &amp; Nobility whatsoever. And by this meanes shall Religion shine in your Family in its native beauty and lustre, and the Kingdome of God which stands not in word but in power, shall appear in its bright glory among you, till the Kingdome of the Son first fit you, and then after deliver you up to the Kingome of the Father, and God be all in all immedi<g ref="char:EOLhyphen"/>ately. Which is the earnest prayer of your most humble and faithfull servant,</p>
+            <closer>
+               <signed>WILLIAM DELL.</signed>
+            </closer>
+         </div>
+         <div type="summary_of_contents">
+            <pb facs="tcp:158478:5"/>
+            <head>THE CONTENTS.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Context.</p>
+            <p>The Explication of the Words.</p>
+            <p>Three Generall Doctrines.
+<list>
+                  <item>1. <hi>That Christ gives his own people sufficient strength for their imployments; his own strength for his owne Workes</hi>
+                  </item>
+                  <item>2. <hi>That when Christ leaves his people in regard of sense, he never leaves them without a promise; and in that promise his Spirituall presence.</hi>
+                  </item>
+                  <item>3. <hi>That the powring forth of the spirit is the meanes whereby God both increases and governes his Church.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The more speciall Doctrine from the words, is</p>
+            <p>
+               <hi>That the receiving of the Spirit, is the receiving of power.</hi>
+            </p>
+            <p>For the Spirit it selfe is power,
+<list>
+                  <item>1. <hi>Essentially in it selfe.</hi>
+                  </item>
+                  <item>2. <hi>Operatively in us. By being in us,</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <item>1. <hi>A Spirituall Knowledge,</hi>
+                        </item>
+                        <item>2. <hi>Of Truth,</hi>
+                        </item>
+                        <item>3. <hi>Of Wisdome,</hi>
+                        </item>
+                        <item>4. <hi>Of Faith, which inables us</hi>
+                           <list>
+                              <item>
+                                 <hi>To do,</hi>
+                              </item>
+                              <item>
+                                 <hi>Indure the some things with Christ himselfe.</hi>
+                              </item>
+                           </list>
+                        </item>
+                        <item>5. <hi>Of Righteousnesse, in</hi>
+                           <list>
+                              <item>
+                                 <hi>Destroying sin.</hi>
+                              </item>
+                              <item>
+                                 <hi>Imparting Grace.</hi>
+                              </item>
+                           </list>
+                        </item>
+                        <item>6. <hi>Of the feare of the Lord.</hi>
+                        </item>
+                        <item>7. <hi>Of Love and Vnity.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <pb facs="tcp:158478:6"/>
+            <p> The Use, twofold.
+<list>
+                  <item>1. <hi>Exhortation, to inforce this; the necessitie of having this power is urged, in reference</hi>
+                     <list>
+                        <item>1. <hi>To Ministers.</hi>
+                        </item>
+                        <item>2. <hi>To all Christians.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>1. <hi>Ministers stand in need of the power of the spirit to come upon them.</hi>
+               <list>
+                  <item>1. <hi>Because, without they have this power, they are desti<g ref="char:EOLhyphen"/>tute of all power.</hi>
+                  </item>
+                  <item>2. <hi>Without this power they are insufficient for the work of the Ministerie: As being unable,</hi>
+                  </item>
+                  <item>
+                     <list>
+                        <item>1. <hi>To preach the Word, that is the true Spirituall and li<g ref="char:EOLhyphen"/>ving Word of God.</hi>
+                        </item>
+                        <item>2. <hi>To preach it zealously and powerfully, but without this presence of the spirit of power,</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <list>
+                        <item>1. <hi>Their Ministerie is cold and hath no heate in it.</hi>
+                        </item>
+                        <item>2. <hi>Weake and hath no strength in it.</hi>
+                        </item>
+                        <item>3. <hi>To persevere in their ministerie and to carry it on a<g ref="char:EOLhyphen"/>gainst all opposition and contradiction.</hi>
+                        </item>
+                        <item>4. <hi>To reprove the world of sin. For the Spirit of judge<g ref="char:EOLhyphen"/>ment must needs be accompanied with the spirit of might.</hi>
+                        </item>
+                        <item>5. <hi>To incounter and overcome the Devill.</hi>
+                        </item>
+                        <item>6. <hi>To inable them to be comfortable and invincible against all evills and enemies.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>2. <hi>This Spirit of power, and power of the Spirit is neces<g ref="char:EOLhyphen"/>sary for all Christians, as well as ministers.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> But do all Christians receive the Spirit of God, as well as Ministers?</p>
+            <p>
+               <hi>Answer.</hi> Yes equally and alike; without any diffe<g ref="char:EOLhyphen"/>rence.</p>
+            <p>Now this Spirit of power is necessarie for them,
+<list>
+                  <item>1. <hi>To distinguish them from reprobates and Devils.</hi>
+                  </item>
+                  <item>2. <hi>To exalt them above all the rest of mankinde who are destitute of the Spirit.</hi>
+                  </item>
+                  <pb facs="tcp:158478:6"/>
+                  <item> 3. <hi>To unite them unto Christ.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>And the power of the Spirit is necessarie for them,
+<list>
+                  <item>1. <hi>To change their natures; which is the daily worke of the Spirit, till all be renewed.</hi>
+                  </item>
+                  <item>2. <hi>To work grace in them; and each grace, is so much of the power of the Spirit in the flesh.</hi>
+                  </item>
+                  <item>3. <hi>To inable them to mortifie sin, and the power of the Spirit mortifies,</hi>
+                     <list>
+                        <item>1. <hi>The whole body of sin in all its parts and members, and</hi>
+                        </item>
+                        <item>2. <hi>Each particular strong corruption.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>4. <hi>To performe duties. For no more strength in any du<g ref="char:EOLhyphen"/>ties then of the Spirit in them.</hi>
+                  </item>
+                  <item>5. <hi>To confesse the Word before Kings, and Magistrates.</hi>
+                  </item>
+                  <item>6. <hi>To publish the word, and that both</hi>
+                     <list>
+                        <item>1. <hi>In private,</hi>
+                        </item>
+                        <item>2. <hi>In publique, in case of necessitie.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>7. <hi>To suffer and overcome affliction.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Naturall strength withdrawes it selfe from the evill.</p>
+            <p>Spirituall strength, stands to it and overcomes it.</p>
+            <p>The second <hi>Use,</hi> is for information and instruction, shewing that the way to obtain this power is to obtaine the Spirit, and to increase this power, is to increase the Spirit.</p>
+            <p>Now that we may obtain the Spirit, we must first prepare our selves.</p>
+            <p>Wherein this preparation doth not consist.</p>
+            <p>Wherein it doth consist: that is, in emptying us.</p>
+            <p>The worke of the Spirit after he hath emptied us is to fill us.</p>
+            <p>The meanes through which the Spirit is conveyed to us.
+<list>
+                  <item>1. <hi>By the Word, and this word, the Word of the Gospel.</hi>
+                  </item>
+                  <pb facs="tcp:158478:7"/>
+                  <item> 2. <hi>By Faith, which carries us to Christs flesh to receive of his Spirit.</hi>
+                     <p>Through the word and faith, we are borne of God, and so partake of the Spirit of God.</p>
+                  </item>
+                  <item>3. <hi>Prayer: and in prayer we may aske the Spirit either of the Father or the Son.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Againe that we may increase the Spirit,
+<list>
+                  <item>1. <hi>VVee must be constant and continuall in the use of the VVord.</hi>
+                  </item>
+                  <item>2. <hi>VVe must daily increase faith,</hi>
+                  </item>
+                  <item>3. <hi>Must be much in prayer,</hi>
+                  </item>
+                  <item>4. <hi>Must withdraw our selves from the creatures, and live loose from them.</hi>
+                  </item>
+                  <item>5. <hi>Must cease from our owne workes.</hi>
+                  </item>
+                  <item>6. <hi>Must give our selves up to the Spirit that he may worke his worke in us.</hi>
+                  </item>
+                  <item>7. <hi>The workes of the Spirit wee must attribute to the Spirit and not to our flesh.</hi>
+                  </item>
+               </list>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:158478:7"/>
+            <head>
+               <hi>Power from on High,</hi> OR, The power of the Holy Ghost.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ACTS. 1.8.</hi>
+                  </bibl>
+                  <p>But ye shall receive power, when the Holy Ghost is come upon you, and ye shall be witnesses unto me, &amp;c. <hi>Or,</hi>
+                  </p>
+                  <p>You shall receive the power of the Holy Ghost comming upon you.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Hese words are the more remarkable, because they are the very last words in the conference betweene the Son of God, and his beloved Apostles, immediately before his ascension into heaven. Now, you know, when deare and intimate friends are to part, as their love then runs strongest, and their affections are most intire and vehe<g ref="char:EOLhyphen"/>ment, so then also they especially discourse of those things, wherein most of all they desire to be satisfyed, and resolved. Thus was it between Christ and his Apostles: never was there such deare and intimate friendship, and such sincere and burning love between any, as between them. The Apostles, all of them, loved Christ most truly, and passionately, and <hi>Peter</hi> who had three times denied him, three times professed his love to him, and being sorry that Christ should question his love the third time, he thus answered, <hi>Lord thou knowest all things, thou knowest that I love thee.</hi> And Christ also loved them dearly, yea he loved <hi>them
+<pb n="3" facs="tcp:158478:8"/>
+                  <note n="a" place="margin">Iohn 4.19.</note> first, and having
+<note n="b" place="margin">Iohn. 13.1.</note> loved his owne he loved them to the end,</hi> and so he was not discontented with them, for their leaving and forsa<g ref="char:EOLhyphen"/>king him, through humane infirmitie, when he was led away to judgement and to death; For though death quite put out all natu<g ref="char:EOLhyphen"/>rall love, yet spirituall love is not extinguished, but enlarg<g ref="char:EOLhyphen"/>ed by death. Now when such long friends as these, were even now ready to take their last leave one of another in regard of bodily presence, who would not most willingly have been present, to have heard what discourse passed betweene Christ, and his Disci<g ref="char:EOLhyphen"/>ples, at this their last parting?</p>
+            <p>Now Saint <hi>Luke</hi> acquaints us with the whole summe and sub<g ref="char:EOLhyphen"/>stance of Christs discourse with his Apostles,
+<note place="margin">The sum of Christs dis<g ref="char:EOLhyphen"/>course with his Disciples af<g ref="char:EOLhyphen"/>ter his Resur<g ref="char:EOLhyphen"/>rection, ti<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l his Ascension</note> all the time he lived together with them, after his Resurrection, till the day wherein he Ascended into Heaven: In the third verse of this Chapter, he saith, he did discourse with them, <hi>De Regno Dei, touching the Kingdome of God.</hi> That is, not onely touching his Spirituall Kingdome, which he sets up in each particular Christian, and which begins at our regeneration, and is consummate in glorifica<g ref="char:EOLhyphen"/>tion: but also touching his Mediatorie and Monarchi<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all King<g ref="char:EOLhyphen"/>dome, which, in the time appointed of his Father, he should set up in the world; <hi>When he should have the
+<note n="a" place="margin">Psal 2.8.</note> Heathen for his inhe<g ref="char:EOLhyphen"/>ritance, and the utmost ends of the earth for his possession, and
+<note n="b" place="margin">Dan 7.14.</note> all people and Nations, and Languages should serve him, and he
+<note n="c" place="margin">Psal 72.8.</note> should reigne from sea to sea, and from the river to the worlds end.</hi> This was the summe of Christs discourse with them. And the Apostles were fully satisfied touching the thing, onely they were unsatisfied touching the time. For besides, that the setting up of this King<g ref="char:EOLhyphen"/>dome of the Messias in the power and beauty and glory of it, was at that time the common discourse and expectation of all Israel; the Apostles themselves remembred many Prophesies and promi<g ref="char:EOLhyphen"/>ses of the Old Testament, for the restoring the Kingdome of <hi>Da<g ref="char:EOLhyphen"/>vid.</hi> And this they thought Christ would have done in the daies of his flesh: but presently all their hopes were blasted by his death. But when they saw him risen againe from the dead, then presently their hearts were revived into their former hopes; but yet again, seeing nothing done all the time he conversed with them after the resurrection; when now he was ready to Ascend into Heaven, they desire him, first, to resolve them of this question,
+<pb n="3" facs="tcp:158478:8"/>whether or no he would at that time restore the Kingdome to Is<g ref="char:EOLhyphen"/>rael. <hi>Lord</hi> (say they) <hi>Wilt thou at this time restore again the King<g ref="char:EOLhyphen"/>dome to Israel?</hi> Now Christ doth not denie the restoring of the Kingdome to Israel, but denies, to acquaint them with the <hi>time</hi> when it should be done. He tells them, <hi>it was not for them to know the times and seasons, which the Father had put in his owne power.</hi> verse 7.</p>
+            <p>The like answer to the like demande, <hi>Daniel</hi> received in his time. For when the Angel had represented to <hi>Daniel,</hi> the totall destruction of the image of worldly Monarchy, together with the rise, and reigne and ruine of Antichrist, and the setting up of Christs Kingdome in the world, in the stead of the former, <hi>Dani<g ref="char:EOLhyphen"/>el</hi> said, Chap. 12.8. <hi>And I heard, but I understood not; then said I, O my Lord, What shall be the end of these things? And he said, Go thy way</hi> Daniel, <hi>for the words are closed up &amp; seale till the time of the end.</hi> So that Angel who discovered the things themselves to <hi>Da<g ref="char:EOLhyphen"/>niel,</hi> refused to discover to him plainely and expressely, the time when they should be done: but that was to be closed and sealed up till the time of the end. And so here in like manner, Christ who had discoursed largely and cleerely to the Disciples touch<g ref="char:EOLhyphen"/>ing the Kingdome of God, yet denies to discover to them the time, when it should be set up in the world. And the rea<g ref="char:EOLhyphen"/>son why he denied this to them, to whom he had not denyed himselfe, was not for want of love, but because the Father had kept the time and season, wherein all this should be done, in his owne power. Had this been placed in Christs power, he had no doubt made it knowne to them, as well as he did those other things, which he had heard from his Father; but the Fa<g ref="char:EOLhyphen"/>ther had not placed this in his Sons power, but had reserved it in his owne: and the Apostles were not to pry after, that which was hidden with God, but were to content themselves with what he had revealed.</p>
+            <p>But though the Son did not reveale to them what the Father had kept in his owne power, yet he tells them, what the Fa<g ref="char:EOLhyphen"/>ther had promised unto them, and what he had also put into his power, and what hee would certainly performe ere long, and that was the gift of the Spirit of power, saying, <hi>But ye shall re<g ref="char:EOLhyphen"/>ceive power when the Holy Ghost is come upon you, and you shall bee
+<pb n="4" facs="tcp:158478:9"/>witnesses to me, &amp;c.</hi> As if he should have said, Do not you trouble your selves about secret things, which shall not be accomplisht in the world, till many yeers after you are fallen asleepe, but do you mind your present businesse wherein you are to serve God in your generation; your present taske is to be witnesses unto me, in Je<g ref="char:EOLhyphen"/>rusalem and all Judea, and in Samaria, and to the utmost parts of the earth; to declare and make knowne, what you have heard and seen with your eyes, and looked upon, and your hands have handled of the Word of life: you are to testifie to the world, my Jn<g ref="char:EOLhyphen"/>carnation, Doctrine, Miracles, Life, Death, Resurrection, and my Kingdome and glory, that is to come; You are to make known to the world, the high and deepe, the great and glorious mysterie of Christ and of the Gospell; and that you may be fit for this, you shall receive the power of the Holy Ghost: you shall receive power when the Holy Ghost is come upon you, &amp;c.</p>
+            <p>Which words again, may be an answer to another questi<g ref="char:EOLhyphen"/>on which the Disciples did or might make after this man<g ref="char:EOLhyphen"/>ner.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Qestion. </seg>
+               </label> Our deare Lord and Master, why wilt thou leave us, thy poore Disciples, among so many evills and enemies in the world, which our weaknesse must of necessitie sinke under? We well remember how fearfull and foolish we have beene, whilest thou wast yet with us, but how much more timorous and trembling shall wee be, when thou art gone from us? When thou wast apprehended by the armed power of the Magistrates, thou knowest how we all forsooke thee and fled; and I, said <hi>Peter,</hi> denied thee and forswore thee, at the voice of a simple maide. And therefore if thou now quite leave us, what Witnesses are we like to bee unto thee, and what preachers of thy Name, among the obstinate Jewes, among the angry and inraged Rulers, and people, who will be ready, for thy Names sake, every day to deliver us up to a new death? And how shall we be able to stand amidst so many difficulties, trou<g ref="char:EOLhyphen"/>bles, distresses, oppositions, persecutions, when thou hast left us? Surely, we are such weake and infirme creatures, that we shall never be able to hold out, but shall lie downe both in shame and sorrow.</p>
+            <pb n="5" facs="tcp:158478:9"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Answer. </seg>
+               </label> To this Christ answers in these words, <hi>Accipietis virtutem, You shall receive the power of the Holy Ghost comming upon you.</hi> As if he should have said, You have a hard taske indeed, but you shall bee furnished with proportionable power. The businesse you are to undertake is not <hi>humane,</hi> but <hi>divine;</hi> the things that you are to teach, are not <hi>carnall,</hi> but <hi>spirituall;</hi> the worke that you are to set upon, is not <hi>mans</hi> worke but <hi>Gods:</hi> you are to act among <hi>men</hi> for <hi>God:</hi> you are to act in the <hi>world,</hi> against the <hi>world;</hi> you are to act against the <hi>devill,</hi> in the very midst of the <hi>devils</hi> Kingdome. You are to convert Infidels; to make, of Heathens, Christians; to bring them neere unto God, who are now without God in the world; to carry the light of heaven up and downe this darke world, a<g ref="char:EOLhyphen"/>mong the people that sit in darknes and shadow of death, to show them the way to life and salvation: you are to turne the world upside downe; to change the manners and customes of the people; to bring them off from the idolatry of their forefathers, to worship the true God in spirit and truth: you are to reduce the earth in<g ref="char:EOLhyphen"/>to conformity with heaven, and set up Gods Kingdome here in this present world. And all this you shall not doe in ease and qui<g ref="char:EOLhyphen"/>etnesse, and prosperity, and pleasure; but whilest you are thus im<g ref="char:EOLhyphen"/>ployed and busied, you shall have the whole world rise up against you, and the devil prosecuting you with his utmost power through wicked men, and you shall not onely be hated of all men for my names sake, but you shall be even overwhelmed with reproaches, obloquies, slaunders, oppositions, persecutions, prisons, torments, deaths. And therefore that you may be able both to doe and to suffer all these things, <hi>You shall receive the power of the Holy Ghost comming upon you.</hi>
+            </p>
+            <p>Now from these words we shall note something generally, and something more particularly.</p>
+            <p>In generall three things. The first is this:</p>
+            <p n="1">1.
+<note place="margin">1. <hi>Generall Doctr.</hi>
+               </note> That as Christ will not suffer his Disciples to be <hi>tempted</hi> a<g ref="char:EOLhyphen"/>bove their power, so neither to be <hi>imployed</hi> above their power; but he furnishes them with power sufficient both for their <hi>tempta<g ref="char:EOLhyphen"/>tions,</hi> and for their <hi>imployments;</hi> for their <hi>sufferings,</hi> and for their <hi>doings.</hi> And as Souldiers that are under a wise and carefull Com<g ref="char:EOLhyphen"/>mander, when they are neere an ingagement, are not suffered to run rashly upon the enemy, nor permitted to goe forth to battle
+<pb n="6" facs="tcp:158478:10"/>till they are armed and mounted: so Christ would not suffer his Disciples to goe forth in his warfare, to incounter so many evils, and oppositions, and persecutions, and the whole power of the world, and of the Devill, till first he had armed them with the Holy Ghost; <hi>Ye shall receive power when the Holy Ghost is come up<g ref="char:EOLhyphen"/>on you, &amp;c.</hi>
+            </p>
+            <p>Christ alwayes gives unto all those whom he sends forth and imployes, of his <hi>owne power,</hi> for his <hi>owne workes; heavenly</hi> power for <hi>heavenly</hi> workes, <hi>spirituall</hi> power for <hi>spirituall</hi> workes, the po<g ref="char:EOLhyphen"/>wer <hi>of God,</hi> to doe the workes <hi>of God.</hi> Indeed Christ gives unto some a greater measure of power, and to some a lesser, according as he intends to use some in greater workes and difficulties, and some in lesser; but still they have of Christs power, whether more or lesse, who are imployed by Christ: and a little of that power that is communicated by Christ, will inable a man to doe great things, far greater then the world suspects or imagines.</p>
+            <p>So that we may judge of our calling to any businesse, and of our imployment in it, by the power we have received from Christ for it. If we have none of the power of Christ, we were never set aworke by Christ; for Christ never sets any on his worke, with<g ref="char:EOLhyphen"/>out communicating unto them of his power. And hereby wee may certainly know and conclude, that those in the Ministrie that are loose and vitious, and idle, and negligent, and insufficient for that worke, were never called to it, nor imployed in it by Christ, but they run of their owne heads when they were not sent, and minister in the Church for the gaine of money, and preach onely that they might live. Whereas if Christ had imployed them in that calling,
+<note place="margin">Melius est, nullum habe<g ref="char:EOLhyphen"/>re, quam sa<g ref="char:EOLhyphen"/>crilegum, im<g ref="char:EOLhyphen"/>pium &amp; scele<g ref="char:EOLhyphen"/>ratum mini<g ref="char:EOLhyphen"/>strum, qui non venit n<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>si ut mactet &amp; per<g ref="char:EOLhyphen"/>dat, sicut fur &amp; latro. Luth. de instit. Mi<g ref="char:EOLhyphen"/>nistr. Eccl.</note> he would have furnished them with abilities for it: and they being destitute of such abilities, it is most evident they were not sent by Christ.</p>
+            <p>Judge then what a kinde of Reformation this Church were like to have, if some men might have their mindes; who would have ignorant and insufficient men, yea loose and profane men, tolerated in the Ministrie, under pretence of keeping up ordinances; when yet such men were never imployed by Christ, nor supplyed with any power from him: Yea and what ordinances (I pray) are those like to be, which are kept up by men that are carnall, not ha<g ref="char:EOLhyphen"/>ving the Spirit? But you see here that Christs way and wisedome
+<pb n="7" facs="tcp:158478:10"/>was different from this, for he first gives the Apostles the power of the Spirit, and then <hi>sent</hi> them to preach, when he had first <hi>in<g ref="char:EOLhyphen"/>abled</hi> them to preach.</p>
+            <p n="2">2. You see here that Christ being to leave his Disciples,
+<note place="margin">2. <hi>Generall Doctrine.</hi>
+               </note> in re<g ref="char:EOLhyphen"/>gard of his bodily presence, yet leaves behinde him the promise of the Spirit of power, and this was some establishment to them, yea this gave great joy and comfort to them, who before had their hearts filled with sorrow.</p>
+            <p>Christ, though sometime he leave his people in regard of <hi>sense,</hi> yet he never leaves them without a <hi>promise.</hi> The soule sometimes, in the houres of temptation and desertion, may want the <hi>sense</hi> and feeling of Christ, but it never wants a <hi>promise</hi> from Christ: and the promise makes Christ present in his absence. For Christ him<g ref="char:EOLhyphen"/>selfe is spiritually present in the promise, and not Christ onely, but the Holy Ghost also, for Christ and the Spirit are never asunder, but as the Father and the Son are one, so is Christ and the Spirit one, and all are in the promise. And so the promise is able to up<g ref="char:EOLhyphen"/>hold the soule in any condition, not because of its owne nature, but because God and Christ and the Spirit are present in the Pro<g ref="char:EOLhyphen"/>mise, and they are infinitely able to support the soule through the Promise, under the greatest evils either of earth or hell. Now this injoyment of God in the Promise, is the injoyment of faith, and not of sense, and this injoyment of faith is the most excellent, and intimate injoyment of Christ. And thus may the soule injoy Christs presence in his absence; his presence according to faith, in his absence according to sense. And therefore Christ departing from his Disciples in regard of his bodily presence, leaves with them the promise of the Holy Ghost, and in that promise his spi<g ref="char:EOLhyphen"/>rituall presence. And this is the worst condition that Christ ever leaves his Church in, he leaves them his presence in a Promise, when in regard of sense he forsakes them.</p>
+            <p n="3">3.
+<note place="margin">3. <hi>Generall Doctrine.</hi>
+               </note> Note, that <hi>Luke</hi> being to speake in this Booke of the Acts of the Apostles, of the propagating and inlarging, and governing the Christian Church, doth first make mention of the pouring forth of the Spirit, and that both upon the Apostles, and after<g ref="char:EOLhyphen"/>wards upon the Disciples. Signifying hereby, that there is no<g ref="char:EOLhyphen"/>thing so necessary for the increase and wel ordering of the Church of Christ, as <hi>the pouring forth of the Spirit.</hi> And therefore they are
+<pb n="8" facs="tcp:158478:11"/>altogether deceived, and walke in the light of Nature and not of God, who thinke the increase, and propagation, and preservation, and establishment, and order, and ordering of the Church of God, depend especially upon the Councels, and Decrees, and Constitu<g ref="char:EOLhyphen"/>tions of men, and that without these the Church of God would soone come to wofull disorder, yea to utter ruine and confusion; as if Christ and his Spirit sate idle in heaven, and had left the whole businesse of his Church to men: and the sacred power confirmed with the secular power, were abundantly sufficient for the increase and well ordering of the Church. In the meane time not regarding the promise of the Father, or the pouring out of the Spirit by the Son. And this is the very <hi>mystery, of the mystery of iniquity</hi> among us, and the very <hi>head</hi> of Antichrist which is yet to be broken. And therefore let us know that the Psalmist saith, <hi>Except the Lord build the house, they labour in vaine that build it: and except the Lord keepe the City, the watchman watcheth but in vaine:</hi> so also except the Lord, through his Word, poure forth the promise of the Spirit, and by that Spirit of his, in and through the Word, inlarge and go<g ref="char:EOLhyphen"/>verne the Church, they labour in vain that undertake these things of themselves. For it is the Spirit alone, that through the faithfull ministrie of the Word, makes the increase of the Church, and layes hold on all the elect, and brings them through faith into the unity of the Son and of the Father, and teaches them, and orders them, and governes them, and preserves them. And therefore you see here, that the <hi>promise of the Spirit</hi> is first performed, before the Church of God hath any inlargement, or government.</p>
+            <p>And now from these generall things we proceed to the words more particularly.
+<note place="margin">The particu<g ref="char:EOLhyphen"/>lar handling of the words.</note> Ye shall receive power when the Holy Ghost is come upon you.</p>
+            <p>And here we may note two things.
+<list>
+                  <item>1. What he promises them, and that is Power; you shall receive power.</item>
+                  <item>2. How they should be made partakers of that power, and that was, by the Holy Ghosts comming upon them.</item>
+               </list>
+            </p>
+            <p>The point we will insist on from both is this,</p>
+            <p>That the receiving of the Spirit is the receiving of power:
+<note place="margin">The Doctr.</note> till we receive the Spirit we are altogether without power, and when we receive the Spirit, then first of all do we receive power; power from on high.</p>
+            <pb n="9" facs="tcp:158478:11"/>
+            <p> By nature we are all without strength, weak, impotent crea<g ref="char:EOLhyphen"/>tures, utterly unable to any thing that is truly and spiritually righteous and good. For by nature we are nothing but flesh, <hi>for that which is borne of flesh is flesh, and all flesh is grasse,</hi> a fa<g ref="char:EOLhyphen"/>ding withering and decaying thing, together with all the flow<g ref="char:EOLhyphen"/>ers of it, that is, the perfections and excellencies of it. So that by nature we are all without power, because we are nothing but flesh, of which weaknesse is an inseparable adjunct.</p>
+            <p>But when we receive the Spirit we receive-power:
+<note place="margin">The Spirit is Power two wayes.</note> for power is an inseparable adjunct of the Spirit, as weaknesse is of faith: yea the Spirit it self which is given us, is power and that both essentially and operatively, in it self and in us.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1 The Spirit is power essentially in it self: for it is one God with the Father and the Son, co-essentiall, co-equall,
+<note place="margin">Essentially in it self.</note> co-eternall; and so as Christ is the power of God, so also is the spirit, the power of God; yea the spirit is the God of power, aswell as the power of God. So that the spirit is power in himself essentially, and he that pertakes of the power of the spirit, pertakes of that power which is God and no creature.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. The Spirit is power operatively in us,
+<note place="margin">Operative<g ref="char:EOLhyphen"/>ly in us; By being in us:</note> by being in us</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1 A spirit of Knowledge; for the Holy Ghost teaches us to know the things that are freely given to us of God: yea, he teaches us to know, what sin is and what righteousnesse, what death is and what life, what Heaven is and what hell,
+<note place="margin">A Spirit of Knowledge.</note> what our selves are and what God is; these things he teaches us to know otherwise then other men know them. In a word, the spirit teaches a Christian to know <hi>all things,</hi> that is to know God and the Kingdome of God, and all the things of both, all other things being nothing in comparison of these. Thus the Holy Ghost is a spirit of knowledge in us, and so of power, for knowledge is the strength of a man. Whereas an ignorant man is a weak man, you may carry him whither you will: but knowledge renders a man strong and unmoveable. And in all things, wherein the Holy Ghost is a spirit of knowledge in us, he is also a spirit of strength.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2 The Holy Ghost is a spirit of Power in us, by being in us a spirit of <hi>Truth.</hi> And so the spirit is,
+<note place="margin">A Spirit of Power.</note> because it doth not onely leade us <hi>unto the truth</hi> (that is unto the word which is
+<pb n="10" facs="tcp:158478:12"/>this onely truth, as it is written, Sanctifie them through the truth, thy Word is truth) but also the Spirit leades <hi>us into the Truth;</hi> it leades us into the <hi>truth,</hi> and the <hi>truth</hi> into us, till we and it become one by an unseparable union. The Holy Ghost takes a beleever and leades him into one truth after a<g ref="char:EOLhyphen"/>nother, till at last it lead him into <hi>all truth.</hi> Now wherein the Spirit is a <hi>Spirit of truth</hi> to us it is a <hi>Spirit of Power:</hi> for through the truth we learne from the Spirit of truth, we are altogether stedfast and unmoveable, among variety of different, and contrary winds of Doctrine. And this is the very cause, that among so many divisions, &amp; factions, and errours, and heresies, which wofully prevaile in these present times of ours, the peo<g ref="char:EOLhyphen"/>ple of God are not seduced and overcome, to wit, because they are all taught of God, of God and not of men, and have the Spirit of truth to lead them into the truth, the Spirit I say and not men: and so it is impossible that they could fully and finally be deceived. For wherein we are taught by the Spirit of God, it is unpossible we should be perverted by men. Whereas on the contrarie, the true ground, why so many are seduced and overcome by the errours and heresies of this age, is, because they have taken up their religion onely from mans teaching, and have received their opinions or doctrine from men: and so what one man hath taught us, another man can unteach; yea if we be led to the tru<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h it self onely by man, man can again lead us from it. For all the world cannot lead any man into the truth, till the Spirit lead him into it; and when the Spirit doth lead us into the truth, all the men in the world cannot lead us out of it; but wee are so sure of those things wherein the Spirit hath been a teacher to us, that if all the Councels and Churches in the world, yea all the Angels of Heaven should teach us contrary, we would hold them accur<g ref="char:EOLhyphen"/>sed. But a man that hath not been taught of the Spirit, every day you may win him into new opinions, by the power and authority of men, together with the strength of other advan<g ref="char:EOLhyphen"/>tages; But he that hath been led into the truth by the Spirit of truth, is unmoveable and invincible among all doctrines. And thus also the Holy Ghost by being a Spirit of truth is also a Spirit of <hi>Power</hi> in us.</p>
+            <p n="3">
+               <pb n="11" facs="tcp:158478:12"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3 The Holy Ghost is a Spirit of Power in us, by being in us a Spirit of <hi>Wisdome:</hi> and so it is,
+<note place="margin">A Spirit of Wisdome.</note> because it makes us wise with the wisdome of God, wise upon earth after the rate of heaven, wise to Salvation. There is no man wise without the Spirit of God; for the wisdome of carnall men is but foolishnesse be<g ref="char:EOLhyphen"/>fore God, yea before Angels and Saints, but the wisdome of the Spirit is most gracious and heavenly wisdome. And this wisdome of the Spirit is the strength of a Christian: the more he hath of it, the more mighty he is, both in all his doings and indurings. It is said, Eccles. 9.15. <hi>That there was a poore wise man, delivered a small city from the power of a mighty King,</hi> and therefore <hi>Solomon</hi> concludes that <hi>wisdome is better then strength,</hi> for it can do greater things then strength can. When <hi>David</hi> carried himselfe <hi>wisely, Saul</hi> a great King was afraid of him: he thought himself too weak to deale with <hi>David,</hi> and <hi>David</hi> too mighty to deale with him, because of his wisdome: and <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> asked <hi>Wisdom</hi> of God above all things for the strength of his government;
+<note place="margin">2 Cor. 1 10.</note> all government without this being but weak and brittle. This wisdome contributes strength to us, where<g ref="char:EOLhyphen"/>as we say of a man that wants wisdome, he is a weake man: And so the Holy Ghost being a Spirit of wisdome in us, is also a Spirit of Power.</p>
+            <p n="4">
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. The Holy Ghost is a Spirit of Power in us, by being in us a Spirit of <hi>Faith.</hi> For faith is a work of the Spirit of power,
+<note place="margin">
+                  <hi>A spirit of Faith.</hi> Ephes. 119.</note> and no lesse power would work faith in us, then <hi>that which rai<g ref="char:EOLhyphen"/>sed Christ from the dead,</hi> when he lay under all the sin of man, and all the wrath of God, and all the sorrowes of death, and all the paines of hell; it must be a mighty power indeed, that must raise Christ then, and that power was the power of the Spirit, and no lesse power will worke faith. So that whoever truely beleeves by this faith of the operation of God, is sensible in his owne soule of the selfe same power that raised Christ up from the dead. And thus the Holy Ghost is a Spirit of Faith in us, and so of Power. For unbeliefe keepes a man in himselfe, but faith carries a man out to Christ: now there is no man weaker then he that rests on himselfe, and there is no man stronger, then he that forsakes himselfe and rests on Christ. And so a man through the power of Faith is able both to doe,
+<pb n="12" facs="tcp:158478:13"/>and indure the selfe same things which Christ himselfe did and indured.</p>
+            <p n="1">1.
+<note place="margin">The power of saith inables us, 1. to do the same things Christ himself did.</note> He is able <hi>to do the same things that Christ himselfe did,</hi> and therefore saith Christ, <hi>all things are possible to him that be<g ref="char:EOLhyphen"/>leeveth;</hi> so that a beleever hath a kinde of omnipotency, and all things are possible to him; because by faith he layes hold up<g ref="char:EOLhyphen"/>on the power of God, and all things are possible to the power of God, and so all things are possible to a beleever, who is partaker of that power of God.
+<note place="margin">Phil 4 13.</note> And hence <hi>Paul</hi> saith, I can do all things through Christ that strengtheneth me; This Christ that strengthened him was the power of God, and this power of God is not a finite power but an infinite, nor a particular power, but an universall; and so can do, not some things only, but all things; and so also can all they who are truly parta<g ref="char:EOLhyphen"/>kers of it by faith. Yea Christ himselfe hath a greater expres<g ref="char:EOLhyphen"/>sion then this, yea such an one, that I never durst have spoken, if Christ himselfe had not first spoken it, and that is this, John 14.12. <hi>He that beleeveth in me, the workes that I do, shall he do, and greater workes then these, because I go to the Father.</hi> Where Christ saith a beleever shall not only do the <hi>same works</hi> with himselfe, (which also had been a great thing) but also <hi>greater workes</hi> then himselfe, and this indeed, is altogether admirable and wonderfull, That <hi>every</hi> beleever shall do greater works then Christ; But how is this made good? Why thus. Christ he overcame the Law and Sin and Death and Hell, and the whole power of the Devill, in a body and soule free from sin; (his humane nature was the immediate formation of the Holy Ghost in the womb of the Virgin <hi>Mary,</hi> &amp; so had not the least spot of sin in it.) But now beleevers, overcome the same evils, even the Law, Sin, Death, Hell, and the whole power of the Devill, in corrupted and polluted nature, in bodies and soules, at the first full of sin, and afterwards defiled through many cor<g ref="char:EOLhyphen"/>ruptions. The Devill came to Christ, and found nothing in him, and so he overcame, but he comes to a beleever and findes much in him, and yet he overcomes. And this truly is a greater worke then Christ did; And these works we do, but not through our owne power, but through Christs, of which we truly partake through faith.</p>
+            <p n="2">
+               <pb n="13" facs="tcp:158478:13"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. A Christian through the power of faith is able not only to doe,
+<note place="margin">To suffer the same things that Chrict himself suf<g ref="char:EOLhyphen"/>fered.</note> but also <hi>to suffer the same things that Christ himself suf<g ref="char:EOLhyphen"/>fered.</hi> Now the sufferings of Christ were the most grievous, and intollerable to nature that ever were. For how did Christ for the present, as it were lay aside his Divine nature, that he might suffer in his humane, and how did he suffer in this the whole weigh &amp; condemnation of sin to the very utmost, &amp; the whole wrath of God to the utmost, &amp; all the sorrows of death &amp; the pains of hell to the very utmost? And among all these suffrings, had not the least drop of comfort, either from heaven or earth; and yet through the power of the Spirit, he indured and overcame all. And so each Christian is able to indure and overcome the same evills by the same power:
+<note place="margin">Phil. 3.10.</note> and therefore <hi>Paul</hi> desired <hi>to know Christ truly,</hi> and not onely, <hi>the power of his resurrection,</hi> which any one would desire to know, but also the <hi>fellowship of his sufferings,</hi> which flesh and blood trembles at, yea and to be made <hi>conformable to his very death.</hi> Yea I adde yet further, that if a Christian should chance to fall downe into Hell (as we beleeve Christ descended into Hell, and so also many of his Saints have done, as <hi>David</hi> and <hi>Hezekiah,</hi> &amp;c.) Yet a Cristian through the power of the Spirit, were able to overcome both the sins and the paines of Hell; and there<g ref="char:EOLhyphen"/>fore saith <hi>Solomon, Love,</hi> which is the power of the Spirit, <hi>is too strong for death and too hard or too cruell for Hell;</hi>
+               <note place="margin">Cant. 8.5.6.</note> As is evi<g ref="char:EOLhyphen"/>dent in that Godly woman (for I will name but one instance instead of many) who thinking of the torments of hell, and of the hatred and blasphemy of God, which reigned in the damned, did earnestly entreat God, <hi>ut etiamsi damnaretur, ta<g ref="char:EOLhyphen"/>men Deum diligeret;</hi> that though she were damned, yet still shee might love God. Here love was too hard for Hell indeed.</p>
+            <p>And thus a beleever through faith, is inabled both to doe and indure the selfe same things which Christ himselfe did and endured: and the Holy Ghost by being a Spirit of faith, is a Spirit of Power in us.</p>
+            <p n="5">
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> 5. The Holy Ghost is a Spirit of power in us,
+<note place="margin">A Spirit of Righteous<g ref="char:EOLhyphen"/>nesse.</note> by being in us a Spirit of <hi>Righteousnesse:</hi> and so he is two waies.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. In regard of <hi>mortifying sin.</hi> For the Spirit of God dwel<g ref="char:EOLhyphen"/>ling
+<pb n="14" facs="tcp:158478:14"/>in us, is not idle in us, but continually active; and so from day to day mortifies sin.
+<note place="margin">Mortifying sin.</note> And this is the proper work of the Spirit in our flesh, to destroy out of us whatsoever is contrary to it selfe, and that is every sin and lust and corruption. Now <hi>our sins are our weaknesse,</hi> a mans pride and passion, and envie and covetousnesse, and lust, and intemperance, and every sin is his weaknesse. Now the Holy Ghost by being in us a Spirit of righteousnesse, mortifies and destroyes all our sins, and so takes away our weaknesse.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Againe, as the Holy Ghost is a Spirit of righteousnesse in us,
+<note place="margin">Imparting grace.</note> in regard of mortifying sin, so also in regard of imparting grace to us. For all grace is the fruit and operation of the Spi<g ref="char:EOLhyphen"/>rit in our flesh; and as all light is from the sun, so is all grace from the Spirit. Now <hi>every grace is so much strength in the soule,</hi> Faith so much strength, Hope somuch strength, Love so much strength, so humility and patience and temperance and godlinesse and brotherly Kindnesse, and all other graces are so much strength: and according to each mans measure of grace, so is his measure of strength, and according to each mans mea<g ref="char:EOLhyphen"/>sure of the Spirit, so is his measure of grace. And thus the Ho<g ref="char:EOLhyphen"/>ly Ghost by being a Spirit of righteousnesse, is also in us a Spi<g ref="char:EOLhyphen"/>rit of power.</p>
+            <p n="6">
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> 6. The Holy ghost is a Spirit of power in us, by being in us a Spirit <hi>of the Fear of the Lord:</hi>
+               <note place="margin">A spirit of the feare of the Lord.</note> and so he is, by representing God to us in his Glory and Majestie according as he hath revealed himselfe to us in his word; from which knowledge of God springs his feare. For what is the reason, that the men of the world fear not God, but sin securely against the great &amp; glori<g ref="char:EOLhyphen"/>ous God every day? Why, the reason is, because they know not the Lord. Now the Spirit comes and reveales the Father in the Son, and presents God to the soule through his word, in his infinite, and eternall power, and justice, and wisdome, and truth, and faithfulnesse, and love, and mercy, and good<g ref="char:EOLhyphen"/>nesse, &amp;c. It shines to the soule in each attribute of God, and now when a man sees God by his owne light, and knowes him by his owne teaching, then first doth he begin truely to feare God; and the feare of God, is his strength. For he that feares God, is free from all other feare: he feares not <hi>men of high de<g ref="char:EOLhyphen"/>gree,</hi>
+               <pb n="15" facs="tcp:158478:14"/>nor <hi>men of low degree,</hi> nor the united power of all the creatures; he feares not the feare of other men in their evills, but in the midst of all fearefull things he is without fear; be<g ref="char:EOLhyphen"/>cause <hi>he sanctifies the Lord of hosts in himselfe, in his heart,
+<note place="margin">Isa. 8.13.</note> and makes him his feare, and his dread.</hi> And by this meanes amidst all evils hee hath admirable confidence and assurance; because he knowes that no evill can befall him from any man, or from any creature, till first it be the will of God: and also that what ever evill befalls him, acording to the will of God, it shall worke for good unto him, in the end. Thus the fear of the Lord is a Christians confidence, and a beleevers strength; whereas he that feares not God, feares every thing, yea, not onely reall, but imaginarie evills; and as evills multiply his feares, so his feares againe, multiply his evills, till at last he be swallowed up of both. But the Holy Ghost being in us a Spi<g ref="char:EOLhyphen"/>rit of the feare of the Lord, is also in us a Spirit of strength.</p>
+            <p n="7">
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> 7. The Holy Ghost is a Spirit of power in us, by being in us a Spirit of <hi>love and unity.</hi>
+               <note place="margin">A spirit of love and vnitie.</note> The Holy Ghost is a Spirit of <hi>love and unity,</hi> in the Godhead; for the Father loves the Son with the Spirit, and the Son loves the Father with the Spirit; and the Father is one with the Sonne in the Spirit; and the Sonne is one with the Father in the Spirit; and the Spi<g ref="char:EOLhyphen"/>rit is both the bonde of love and unity betweene the Father and the Son; and God being most love, and most one, is also most stronge. Now what the Spirit is in the Godhead, he is the same in the Church of God, which is the true temple and habitation of the Godhead, and that is a Spirit of love and unity: For why is there such constant love and unity between the members of the same body, but because one Spirit runs through them all? and so there is such constant love and unity betweene all beleevers, because one Holy Ghost runs through them all. And hence we may take notice of a remarkeable difference betweene nature and and grace; for nature of one makes many, for wee all who are many among our selves, even a whole world of men, were but one in <hi>Adam, omnes eramus ille <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> homa;</hi> but grace of many makes one, for the Holy Ghost which is as fire, melts all the faithfull into one masse or lumpe, and makes of many one body, one thing:
+<pb n="16" facs="tcp:158478:15"/>yea it makes them one in the unitie of God, according to that of Christ, John 17.21. <hi>that they all may be one, as thou Father art in me and I in thee, that they also may be one in us;</hi> marke the words for they are wonderfull; <hi>that they all may be one,</hi> that is, that all beleevers who are many among themselves, may be all made one; one? How one? <hi>As thou Father art in me and I in thee,</hi> that is, as thou and I, being two persons are yet but one God, after his highest example of unity, let them be made; <hi>One in us;</hi> as long as they remaine in themselves, they are many, &amp; how much they remain in themselves, they are many, for their unitie is not in themselves, but they are one in us who are one; that is, how much the saints by the Spirit are carri<g ref="char:EOLhyphen"/>ed into the Father and the Son who are one, so much also are they made one, not onely with the father and the Son, but al<g ref="char:EOLhyphen"/>so with one, another. You may see in the Acts how the multi<g ref="char:EOLhyphen"/>tude of beleevers after they had received the Spirit, so far forth as they had received the Spirit, <hi>Were of one heart and of one minde.</hi> And this unity of beilevers is their strength, &amp; when God shal take away, all those prejudices, and suspicions, &amp; jealousies, and particular ends and interests, and divisions, and separations, and Schismes, that are among his owne people, and the people of God, shall be reduced into this blessed unity among them<g ref="char:EOLhyphen"/>selves, and the Lord be one, and his name one among them all; then shall the Church also be of admirable and invincible power. <hi>So that all they that strive with it shall perish, and all they that war against it,
+<note place="margin">Isa 41.15.</note> shall be as nothing, yea then shall the Lord make the Church as a new sharpe threshing inshrument, having teeth, and it shall thresh the Mountaines</hi> (that is the Kingdomes of the word) <hi>and shall beate them small, and shall make the hills,</hi> (that is, the lesser common wealths) <hi>as chaffe.</hi> But till the Church of God attaine to this unity, it shall not do, any excellent thing; it shall not worke any notable delive<g ref="char:EOLhyphen"/>rance in the earth, neither shall the inhabitants of the world fall. When the Spirit of God shall be a Spirit of unity in the faithfull, and shall heale all the sad differences, and discensions, that are now betweene them, then also shall it be a Spirit of admirable power in them.</p>
+            <pb n="17" facs="tcp:158478:15"/>
+            <p> And thus much for the explication of the point.</p>
+            <p>The use, is two fold.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Vse. </seg>1</label> 1. The first is to exhort all men every where, to endeavour to pertake of this supernaturall, spirituall, and divivine power of the Holy Ghost, which is certainly communicated to all the faithfull, and Elect in Christ Jesus. And let no man think it is a thing indifferent, whether he have this power or no, but know that the having of this power of the Spirit, is of abso<g ref="char:EOLhyphen"/>lute necessity, and that both for Ministers, and for all other Christians.</p>
+            <p n="1">1.
+<note place="margin">A necessity for Ministers to have the pow<g ref="char:EOLhyphen"/>er of the Spi<g ref="char:EOLhyphen"/>rit.</note> There is a necessity of this power of the Holy Ghost for Ministers, and to them this present place doth chiefly re<g ref="char:EOLhyphen"/>late.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. For first, if they have not this power of the Holy Ghost, <hi>they have no power at all.</hi> For Christ sent them only as his Fa<g ref="char:EOLhyphen"/>ther sent him;
+<note place="margin">Otherwise they have no power at all</note> and so Christ never gave unto them any earth<g ref="char:EOLhyphen"/>ly or humane or secular power, and power of swords or pri<g ref="char:EOLhyphen"/>sons, and power of outward constraint and violence. Christ gave them no such outward, and worldy power for the inlarge<g ref="char:EOLhyphen"/>ment of his Kindome, as not being at all sutable to it. For his Kingdome is <hi>spirituall,</hi> and what can <hi>carnall power</hi> do in a Spi<g ref="char:EOLhyphen"/>rituall Kingdome? His Kingdome is <hi>heavenly,</hi> and what can <hi>earthly power</hi> do, in a <hi>heavenly Kingdome?</hi> His Kingdome <hi>is not of this world,</hi> and what can <hi>worldly power</hi> do in a Kingdome that <hi>is not of the World?</hi> And though Antichrist and his Mi<g ref="char:EOLhyphen"/>nisters have arrogated and usurped, such a carnall and earthly and worldly power to themselves, in their pretended ma<g ref="char:EOLhyphen"/>naging the Kingdome of Christ, yet the faithfull Ministers of Christ cannot.</p>
+            <p>And therefore seeing the Ministers of the Gospel have no power from beneath, they must needs have power from on high, seeing they have no fleshly power, they must needs have Spirituall power, seeing they have no power from earth and from men, they must needs have power from heaven and from God, that is, the power of the Holy Ghost comming on them, or else they have no pow<g ref="char:EOLhyphen"/>er at all.</p>
+            <p n="2">
+               <pb n="18" facs="tcp:158478:16"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. The Ministers of the Gospell, must needs have this power of the Holy Ghost,
+<note place="margin">VVithout this they are insuf<g ref="char:EOLhyphen"/>ficient for the work of the Ministerie.</note> because <hi>otherwise they are not suffi<g ref="char:EOLhyphen"/>cient for the Ministerie.</hi> For no man is sufficient for the work of the Ministerie, by any naturall part and abilitie of his own, nor yet by any acquisite part of humane learning and know<g ref="char:EOLhyphen"/>ledge, but onely by this power of the Holy Ghost, and till he be indowed with this, notwithstanding all his other accom<g ref="char:EOLhyphen"/>plishments, he is altogether insufficient. And therefore the very Apostles were to keep silence till they were indued with this power, they were to wait at Jerusalem till they had re<g ref="char:EOLhyphen"/>ceived the promise of the spirit, and not to preach till then. Yea, Christ himself did not betake himself to the work of the Ministery, till first the spirit of God came upon him and an<g ref="char:EOLhyphen"/>ointed him to preach. And therefore for thirty year together, he did not preach publikely and ordinarily, till at <hi>Iohns</hi> Bap<g ref="char:EOLhyphen"/>tisme he received this power of the spirit comming on him. Now if Christ himself and his Apostles were not sufficient for the Ministerie till they had received this power from on high, no more are any other Ministers whatsoever. For as I said, it is not naturall parts, and abilities, and gifts, and learning, and eloquence, and accomplishments, that make any man sufficient for the Ministery, but only the power of the Holy Ghost com<g ref="char:EOLhyphen"/>ming upon him. So that who ever is destitute of the spirit of power, is insufficient for the work of the Ministerie; and that in these regards.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. Without this power of the spirit, Ministers are utterly <hi>unable to preach the Word;</hi>
+               <note place="margin">They are un<g ref="char:EOLhyphen"/>able to preach the VVord.</note> the true, spirituall, living Word of God. For to preach this <hi>Word of God,</hi> requires the <hi>Power of God.</hi> One may speak the word of man by the power of man, but he cannot speak the Word of God, but by the power of God. And Christ himself in all his Ministerie spake nothing of himself, in the strength of his humane nature, but he spake all he spake by the power of God; and without this power of God, he could not have spoken one word of God. And so in like manner, no man is able to preach Christ but by the Holy Ghost, which is the power of God. For Christ is the power of God, and can never be represented, but by the Holy Ghost which is the power of God. For as we see <hi>light</hi> in <hi>his light,</hi> that
+<pb n="19" facs="tcp:158478:16"/>is, the Father who is <hi>light,</hi> in the Son who is <hi>light;</hi> or else the Son who is <hi>light,</hi> in the Holy Ghost who is <hi>light;</hi> So we know <hi>power</hi> in his <hi>power,</hi> that is the Son who is <hi>power,</hi> in the Holy Ghost who is <hi>power.</hi> And Christ who is <hi>the power of</hi> God, can never be made known to the Church, but by the ministration of the spirit, which is <hi>the power of</hi> God. So that it is not an easie thing to preach Christ the power of God, yea none can do it aright, but by the power of the Holy Ghost comming upon him.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Without this power of the spirit, Ministers are unable to preach the word powerfully. They may, it may be,
+<note place="margin">Vnable to preachit pow<g ref="char:EOLhyphen"/>erfully.</note> happen upon the outward word, yet there is no power in their Mi<g ref="char:EOLhyphen"/>nistrie, till they have received this power of the spirit com<g ref="char:EOLhyphen"/>ming upon them. Otherwise their Ministerie is cold, and there is no heate in it, it is weake and there is no strength in it.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1 It is cold and there is no heate in it. Without men have received the power of the spirit,
+<note place="margin">The Ministe<g ref="char:EOLhyphen"/>ry cold with<g ref="char:EOLhyphen"/>out this power</note> there is no <hi>fire</hi> in their preaching. Their ministerie is unlike the ministerie of <hi>Elias,</hi> whose ministerie was as fire; and unlike <hi>Iohn Baptists,</hi> who in his ministerie was a burning and shining light; and unlike Christs, whose ministerie made the Disciples hearts burn within them; and unlike the Apostles, who having received this spirit, were as men made all of fire, running through the world and burning it up. Without this spirit, a mans mini<g ref="char:EOLhyphen"/>sterie is cold, it warmes the hearts of none, it inflames the spi<g ref="char:EOLhyphen"/>rit of none, but leaves men still frozen in their sins.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2 It is weak and hath no might in it. There is no strength in a Ministerie where there is no spirit!
+<note place="margin">VVeak.</note> Whereas when men have received the spirit, then their ministerie is a powerfull ministerie, as <hi>Paul</hi> 1 Thess. 1.5. <hi>The Ghspell came to you not in word onely, but in power and in the Holy Ghost;</hi> and there<g ref="char:EOLhyphen"/>fore in power because in the Holy Ghost. And again, 1 Cor. 2.4. <hi>My speech and preaching was not with the entising words of mans wisedome, but in demonstration of the spirit and power.</hi> Where you see the spirit and power in the work of the Mini<g ref="char:EOLhyphen"/>sterie, are alwayes conjoyned, as the Sun and light are. And that Ministerie that is in the spirit, is alwayes in power. And being in power, it is alwayes effectuall, either to convert men
+<pb n="20" facs="tcp:158478:17"/>or to inrage them: And the inraging of men, is as evident a signe of the spirit of power in a mans ministerie, as the con<g ref="char:EOLhyphen"/>version of men. Whereas a cold and dead ministerie that is destitute of this power, doth (as we use to say) neither good nor harm, neither converts nor inrages, neither brings in righ<g ref="char:EOLhyphen"/>teousnesse, nor destroyes sin, neither kils nor quickens any, but leaves men in their old temper for many yeares together, and never stirs them. But the ministration of the spirit and power is operative and mighty, and carries all before it. And though evill and carnall men, will ever be murmuring and wrangling and opposing and contending against such a mi<g ref="char:EOLhyphen"/>nistrie, yet they are never able to resist the wisedome and spi<g ref="char:EOLhyphen"/>rit of it; as the Libertines, Cyrenians, and Alexandrians, were not able to resist the wisedome and spirit by which <hi>Ste<g ref="char:EOLhyphen"/>phen</hi> spake.
+<note place="margin">Acts 6.10.</note> And therefore let them that will needs be striving against such a ministerie, know, that they strive against more then a meer man, they strive against power from on high, a<g ref="char:EOLhyphen"/>gainst the greatest power that ever God put forth, against the power of Christ himself and his eternall spirit, and so they shall never be able to prevail against this power, but shall surely sinke under it. But to return from whence we have a little digressed.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. Without this power of the spirit, as Ministers are not able to preach the Word,
+<note place="margin">Vnable to hold out in the Ministerie.</note> nor to preach it powerfully, so nei<g ref="char:EOLhyphen"/>ther <hi>are they able to hold out in their ministerie,</hi> and to carry on strongly against all opposition and contradiction. <hi>Peter</hi> and <hi>Iohn</hi> preached the Gospell, but presently the Rulers and El<g ref="char:EOLhyphen"/>ders and Scribes convented them;
+<note place="margin">Acts 4.17.18.</note> and straightly threatned them, and commanded them not to speak at all, nor to teach in the name of Jesus. And now if the Apostles had wanted this <hi>power of the spirit,</hi> they would presently have been snibd and awed, and would have sneaked away, and you should have heard no more of them. But they having received this power, all the threatnings and scornings of the Rulers and Magistrates, could not deterre them from the discharge of their office, and that ministerie they had received from Christ. But though before they were fearfull and trembling and daunted at the apprehension of the least danger, yet now having received this
+<pb n="21" facs="tcp:158478:17"/>power they are altogether undanted, and said to the Rulers and Elders, <hi>whether it be right in the sight of God,
+<note place="margin">Acts 4.19.</note> to hearken un<g ref="char:EOLhyphen"/>to you, more then unto God, judge ye.</hi> As if they should have said, O ye Rulers and Elders of the people, our case is a plain case, wherin we are most willing that even your own selves should be judges. For we have received a command from God to preach the Gospell of his Sonne Iesus Christ; and you forbid us to do that which God hath commanded us: Now do you your selves be judges, who is fittest to be obeyed God or you? the great and glorious God of heaven and earth, or poor wretched men such as your selves? Nay what God hath commanded us we must and will obey, against all your threatnings &amp; punish<g ref="char:EOLhyphen"/>ments, and what ever you can say or do. We cannot conceale, but must publish what we have seen and known of our Lord Iesus Christ, of his incarnation, life, death, resurrection, ascenti<g ref="char:EOLhyphen"/>on, kingdome, glory, and of that great redemption &amp; salvation, which he hath wrought &amp; purchased for all the Elect of God.</p>
+            <p>Now I would to God, that the unjust commands of all Ma<g ref="char:EOLhyphen"/>gistrates and secular powers whatsoever, might be no other<g ref="char:EOLhyphen"/>wise obeyed then this unjust command of the Rulers was by <hi>Peter</hi> and <hi>Iohn;</hi> and that no man would dare to yeild more obedience to the creature then to the Lord of all.</p>
+            <p>For no Princes or Magistrates in the world, have any power to forbid the preaching of the <hi>everlasting Gospell,</hi> which God hath <hi>commanded should be published to all Nations for the obedi<g ref="char:EOLhyphen"/>ence of Faith.</hi> I say they have no power at all to forbid the preaching of this Gospell, or of any one truth of it, though ne<g ref="char:EOLhyphen"/>ver so crosse to their designes. And if they should, yet herein ought we to know no more obedience then <hi>Peter</hi> and <hi>Iohn</hi> did here. We ought to obey God and not them, and to make known the whole minde of God, though it be never so con<g ref="char:EOLhyphen"/>trarie to their minde: After the example of <hi>Peter</hi> and <hi>Iohn,</hi> who having received this power of the Holy Ghost, held on their Ministerie against all the countermands and threatnings and punishments of the Magistrates. Whereas without this power, they had soon fainted and failed, and had never been able to have gone through with it.
+<note place="margin">Vnable to re<g ref="char:EOLhyphen"/>prove the world.</note>
+            </p>
+            <p n="4">
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. Without this power of the Holy Ghost, Ministers are
+<pb n="22" facs="tcp:158478:18"/>not able <hi>to reprove the world.</hi> For every man by nature seekes the amity of the world, and no man by his good will would provoke the enmitie of it against himselfe. And therefore flesh and blood will never reprove the world of sin, but allowes it and countenances it in sin. But now <hi>the Spi<g ref="char:EOLhyphen"/>rit when he is come, hee will reprove the world of sin.</hi> When a man hath this power of the Spirit in him, then presently he reproves and argues the world of sin, and so by his ministerie, bids defiance to the whole world, and provokes the whole world against himselfe. And this no man either can do or dares do, except he be first indued with this power of the Spi<g ref="char:EOLhyphen"/>rit comming on him. And therefore saith <hi>Micah,</hi> Cha. 3. vers. 8. <hi>I am full of power by the Spirit of the Lord, and of judgement and of might, to declare unto Iacob, his tragression, and to Israel his sin.</hi>
+            </p>
+            <p>The world of all other things cannot indure the reproofe of sin, and the declaration of its evill wayes. And therefore it is exceedingly offended, yea &amp; extreamly rages against the faith<g ref="char:EOLhyphen"/>full teachers of the Word, with all sorts of punishments and persecutions, as the examples of all the Prophets, Apostles and faithfull teachers of the Word of God in all ages, do declare. Yea and Christ himselfe testifies touching himselfe, <hi>therefore the world hates me because I testifie of it, that the workes thereof are evill.</hi> But now, they that will connive at sin, and flatter the world in its owne waies, these are the onely men of rec<g ref="char:EOLhyphen"/>koning, and live in all worldly Honour and prosperity. And all ages can witnesse that all Teachers are not of that strength and resolution, to contemne the hatred and fury of the world; Nay the most are quite overcome with the prosperity of this pre<g ref="char:EOLhyphen"/>sent life, and with the desire of friends and riches and prefer<g ref="char:EOLhyphen"/>ment, and so winke at the sins of the world, and are ministers in whose mouthes are no reproofes, though the whole world lye in wickednesse. For thus they escape the rage and violence, and obtain the favour and love, of the men of this world. And thus weake and unworthy are those men, who are onely indu<g ref="char:EOLhyphen"/>ed with their owne Spirits. But now (saith <hi>Micha) I am full of power by the Spirit of the Lord, and of judgement and of might, to declare unto Iacob his transgression, and to Israel his sin.</hi>
+            </p>
+            <p>As if he should have said, the power of the Spirit of the
+<pb n="23" facs="tcp:158478:18"/>Lord dwelling in me puts forth its selfe two waies, in judge<g ref="char:EOLhyphen"/>ment, and in fortitude.</p>
+            <p n="1">1. In judgement, and this signifies the reproving and the condemning sin and wickednesse, as the Prophet himselfe ex<g ref="char:EOLhyphen"/>plicates, saying, that <hi>I might declare unto Iacob his transgression, and to Israel his sin.</hi> But seeing they being full of judgement doth not want danger, but exposes a man to a thousand evils, in as much as the world can indure nothing lesse then the re<g ref="char:EOLhyphen"/>proofe of sin; therefore I am by the power of the Spirit not onely full of judgement, But also:</p>
+            <p>Secondly, full of <hi>Might;</hi> and as the <hi>Spirit of judgement</hi> expo<g ref="char:EOLhyphen"/>ses me to danger, so <hi>the Spirit of might</hi> inables me to contemne those dangers. So that though the world, <hi>because of the Spirit of judgement,</hi> threaten never so many evills, yet the Prophet is not frighted from his office, but through the <hi>Spirit of might,</hi> discharges it faithfully, in despight of all those threatnings.</p>
+            <p>And whatever ministers want this Spirit of might, though out of danger they may be confident, yet at the very first in<g ref="char:EOLhyphen"/>counter of evill, they will bend and yeeld and speak and doe all things for the favour of the world, rather then for the truths sake they will expose themselves, to the hatred and opposition of the world.</p>
+            <p n="5">
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> 5. Without this power of the Spirit they are <hi>unable to wrestle with and overcome the Devill;</hi>
+               <note place="margin">Vnable to wrestle with and overcome the devil<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> whose subtilty and wrath and malice and power, they must needs encounter with, in the work of the Ministrie. Christ, as soon as he was indued with this power, and annointed by the spirit to preach, was immediately led into the wildernesse, to be tempted of the devill, who would fain have taken him off from the work of the Ministerie, if it had been possible: But Christ being indued with this power overcame the devill. And Christ before he sent his Apostles to preach the Kingdome of God, as you may see Luke 9.1, called them together, and gave them power and authoritie over all devils; and when they returned, they told him that the devils themselves were subject to them. But now the seven sons of <hi>Sceva</hi> who were destitute of this power, when they took upon them to call over one who had an evill spirit, the name of the Lord Jesus, and to say, we adjure you
+<pb n="24" facs="tcp:158478:19"/>by Iesus whom <hi>Paul</hi> preacheth; The evill spirit answered and said, Iesus I know, and <hi>Paul</hi> I know, but who are ye? and so the man in whom the evill spirit was, leaped upon them, and overcame them, and prevailed against them, and they fled a<g ref="char:EOLhyphen"/>way naked and wounded. Acts 19. So that they being desti<g ref="char:EOLhyphen"/>tute of the power from on high, the devill was presently too hard for them, and they were overcome by the devill. But now they that are invested with this power of the Holy Ghost, are able to wrestle with <hi>principalities and powers and the rulers of the darknesse of this world,</hi> and to out-wrestle them, and to tread Satan himself under their feet.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> Sixthly, without this power of the Holy Ghost, they are unable <hi>to suffer persecution for the Word;</hi>
+               <note place="margin">Vnable to suf<g ref="char:EOLhyphen"/>fer persecuti<g ref="char:EOLhyphen"/>on for the VVord.</note> but the least touch of evill causes them to pull in their hornes, and each reproach and opposition and persecution shakes them down. Whereas this power makes them confident, couragious, comfortable, and invincible in the midst of all evils. See this in some ex<g ref="char:EOLhyphen"/>amples. Our Lord Iesus Christ being anointed with the Holy Ghost and with power, did not onely preach the truth in his life, but also witnessed a good confession before <hi>Pontius Pilate,</hi> and sealed to the <hi>truth with His death. Paul</hi> who was indued with the same power, when <hi>Agabus</hi> foretold him by the Ho<g ref="char:EOLhyphen"/>ly Ghost his bonds at Ierusalem, and the brethren hearing it came weeping to <hi>Paul,</hi> and besought him to keep himself out of bonds, by not going up thither, <hi>Paul</hi> reproved them, and told them that he <hi>was ready not onely to be bound, but to dye at Ierusalem for the Lord Iesus. Chrysostome</hi> was indued with the same power, and so resolved to preach the truth, and not to depart from the truth, though the whole world should wage warre against him alone: And professed that he desired nothing more then to suffer for the cause of Christ; and that if it <hi>were offered to him of God, whether he would immediately go to hea<g ref="char:EOLhyphen"/>ven, or stay on earth and suffer for Christ; he would a thousand times rather chuse this latter then the former.</hi> Because in going immediately to heaven, he should seek himself, but in staying on earth to suffer for Christ, he should wholly deny himself, and seek his honour alone. <hi>Luther</hi> was indued with the same spirit of power, and so when he was called to <hi>Wormes</hi> before
+<pb n="25" facs="tcp:158478:19"/>the Emperour <hi>Charles</hi> the fift, and before all the estates of the Empire, to render a reason of his Doctrine, and some of his friends (perceiving undue dealing among his adversaries) per<g ref="char:EOLhyphen"/>swaded him not to goe, to expose himselfe to danger; But he answered with a mighty spirit,
+<note n="*" place="margin">M<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>i vero q<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>a vocatus s<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, decretam et cer<g ref="char:EOLhyphen"/>tum est ingredi urbem, in nomi<g ref="char:EOLhyphen"/>ne Domini no<g ref="char:EOLhyphen"/>stri Iesu Christi, etiam<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> scir<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m tot diabolos n<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>hi oppossitos, quet sunt <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>gu<g ref="char:EOLhyphen"/>lae in omnibus totius urbis te<g ref="char:EOLhyphen"/>ctis.</note>
+               <hi>I have decreed and am resolved because I am called, to goe into the City in the name of our Lord Iesus Christ, though I knew there were so many Devils to oppose mee, as there are tiles on all the houses of the City.</hi> And when he was called to returne to <hi>Wittenberge</hi> by the people, which hee could not doe without most evident and apparant danger, he be<g ref="char:EOLhyphen"/>ing already condemned by the Edicts and authority both of the Pope and Emperour, and so in regard of them, could expect no lesse then a violent death every day, yet for all this he was resolved to returne to his charge; and upon this occasion hath this passage to the Duke of <hi>Saxonie.
+<note n="*" place="margin">
+                     <p>
+                        <hi>Verum quid fa<gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>iam urgent me cause inevi<g ref="char:EOLhyphen"/>tabiles, Deus <gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ogit &amp; vocat, hic nalli crea<g ref="char:EOLhyphen"/>turae tergiver sa<gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>dum est. Age fiat igitur in no<g ref="char:EOLhyphen"/>mine Iesu Christi qui est Dominus vitae &amp; mortis.</hi>
+                     </p>
+                     <p>
+                        <hi>Nihil habeo quod possim <gap reason="illegible: blotted" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e<g ref="char:EOLhyphen"/>dere, Domini e<gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>o sum, si per<g ref="char:EOLhyphen"/>dor Domino perdor, id est invenior. Alium ergo quaer quem terrcas.</hi>
+                     </p>
+                     <p>
+                        <hi>Verum ego scio &amp; <gap reason="illegible: faint" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>rtus su<gap reason="illegible: faint" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>, Iesum Christum Domi<g ref="char:EOLhyphen"/>num nostrum vivere &amp; regnare qua secent a &amp; fiducia inflatus, non timebo etiam multa millia Paparum. Major est enim qui in nobis quam qui in mundo est.</hi>
+                     </p>
+                     <p>
+                        <hi>Quid si me occidat Papa aut damnet ultra Tartara? Occisum non suscitabit, ut bis &amp; it<gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>rum occidat: damnatumvero ego volout nunquam absolvat. Consdo enim instare diem illum quo distruetur regnum illud abominationis &amp; perditionis. Vtinam ros primi d<gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>gn<gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> simus, vel exuri vel <gap reason="illegible: faint" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>cidi ab eo, quo sanguis nosier magis clamet, &amp; urgent judicium illius actell<gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rari. Sed si d<gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>gni non sumus sanguine testificari hanc selt<gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>m oremus &amp; impl<gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>remus misericordiam, ut v<gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ita &amp; voce testemur quod Iesus Christus selus est Dominus &amp; Dous moster, Benedictus in s<gap reason="illegible: faint" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>ul seculo<g ref="char:EOLhyphen"/>lorum.</hi> Luther. <hi>in</hi> Epist. ad Patr.</p>
+                  </note> But what shall I do? una<g ref="char:EOLhyphen"/>voidable causes urge mee, God himselfe calls and compells mee, and here I will turne my back to no creature. Go to then, let me doe it in the name of</hi> Iesus Christ <hi>who is Lord both of life and death.</hi> A<g ref="char:EOLhyphen"/>gaine, in his answer to the Dialogue of <hi>Silvester Prierias,</hi> who had threatned him he saith <hi>J have nothing that I can loose, I am the Lords and if I am lost, I am lost to the Lord, that is, I am found And therefore seeke some body else to fright for mee you cannot.</hi> Againe in his answer, to <hi>Ambrosius Catharinus,</hi> he saith of the Pope and his Instruments, <hi>they seeke not to overcome me with Scriptures, but to destroy me out of the earth, but I know and am sure that</hi> Christ <hi>our Lord lives and reignes. And being even fild with this knowledge and confidence, I will not feare many thou<g ref="char:EOLhyphen"/>sands of Popes. For greater is he that is in us, then he that is in the World.</hi> And againe, in his Epistle to his Father, he hath this remarkeable passage, <hi>wh<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t if the Pope shall kill mee or con<g ref="char:EOLhyphen"/>demne
+<pb n="26" facs="tcp:158478:20"/>me below hell? He cannot royse me up againe when I am slaine and kill mee a second and third time. And having once con<g ref="char:EOLhyphen"/>demned mee, I would never have him absolve mee. For I am con<g ref="char:EOLhyphen"/>fident that the day is at hand, wherein that Kingdome of abomination and destruction, shall be it selfe destroyed. But would J might first be counted worthy either to be burned or slain by him, that so my blood might cry the louder and urge his judgement to be the more hastened. But if I am not worthy to testifie with my blood, let me at least intreat and implore this mercy, that I may tes<g ref="char:EOLhyphen"/>tifie by my life and Doctrine that</hi> Iesus Christ <hi>alone is our Lord and God blessed for ever and ever.</hi>
+            </p>
+            <p>
+               <hi>Calme Melancton</hi> was indued with the same Spirit of power, and so when his enemies threatned him not to leave him a place in all Germany whereon to set his foot, he said, <hi>avido &amp; tran<g ref="char:EOLhyphen"/>quillo animo expecto exilia.</hi> I expect <hi>banishment with a desirous and peaceable mind.</hi>
+            </p>
+            <p>Many more examples might be produced, to show that when Ministers are indued with the power of the Spirit comming on them, then they are stronger then all opposition and <hi>Persecu<g ref="char:EOLhyphen"/>tion</hi> whatsoever, otherwise when these evils incounterd them, they with Demas leave the <hi>Worke,</hi> and imbrace the World.</p>
+            <p>And thus you see what necessity all the faithfull Ministers of the Gospel have, of the power of the Holy Ghost comming upon them: and without this power though they be called Mi<g ref="char:EOLhyphen"/>nisters, yet they are none. For without this power they are un<g ref="char:EOLhyphen"/>able to preach the word, to preach it powerfully, and to per<g ref="char:EOLhyphen"/>severe and hold out in the course of the Ministrie; they are un<g ref="char:EOLhyphen"/>able to reprove the World, to wrestle with and overcome the devil; and to suffer that persecution which necessarily attends that calling. And so without this power they may Minister to <hi>themselves,</hi> but cannot Minister to <hi>others,</hi> the manifold graces of God: they may doe their <hi>owne</hi> worke but they cannot doe <hi>Gods</hi> worke; they may feed <hi>themselves</hi> but not the <hi>Flock of Christ:</hi> they may <hi>dominecre</hi> over the sheepe, but cannot <hi>drive away</hi> the Woolfe: they may build up their <hi>owne-houses,</hi> but can<g ref="char:EOLhyphen"/>not build up <hi>Gods</hi> house.
+<note place="margin">The Holy Ghost and the power of it ne<g ref="char:EOLhyphen"/>cessary for all Christians.</note>
+            </p>
+            <p>Secondly; as the Holy Ghost and the power of it, is neces<g ref="char:EOLhyphen"/>sary for Ministers, so also for all other Christians whatsoever.</p>
+            <pb n="27" facs="tcp:158478:20"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Question. </seg>
+               </label> But some here will be ready to say, yea but do all beleevers, receive the Spirit of God and the power of the Spirit as Mini<g ref="char:EOLhyphen"/>sters doe?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Answere. </seg>
+               </label> Yes, and equally alike with them, without any difference. This is evident, <hi>Act.</hi> 11.15. where <hi>Peter</hi> tells the Iewes, who contended with him for conversing and eating with the Gen<g ref="char:EOLhyphen"/>tiles that when <hi>hee began to speake the Word to them, the Holy Ghost fell on them (saith he) as on us at the beginning.</hi> And a<g ref="char:EOLhyphen"/>gaine, ver. 17. <hi>For asmuch then as God gave unto them the like gift as he did unto us who beleeved on the Lord</hi> Iesus Christ, <hi>what was I, that I could withstand</hi> God. So that God gave the Holy<g ref="char:EOLhyphen"/>ghost to as many Gentiles as beleeved, in like manner as he did unto the Apostles themselves and they received the <hi>same-power</hi> of the Holyghost comming on them, as the Apostles did. Whereby you may perceive that not <hi>Ministers</hi> only are Spiri<g ref="char:EOLhyphen"/>tuall men, and all others temporall, as the Papists have taught, and many Ignorant people among our selves, are still perswa<g ref="char:EOLhyphen"/>ded: but <hi>all true beleevers</hi> are Spirituall as well as they, being borne of the Spirit and Baptized with the Spirit equally as they are.</p>
+            <p>And so all true beleevers as well as Ministers being indued with the Spirit are also indued with the power of the Spirit and so have more then an earthly power in them. They have all of them power of another nature then the power of the World: they pertake of Spirituall, heavenly, and divine power, even of the very power of Christ himselfe, which infinitely transcends all the power of the creature.</p>
+            <p>You see then clearely that all faithfull Christians, have the Spirit of power and the power of the Spirit comming on them aswell as Ministers. And they stand in need of both these for these causes.</p>
+            <p n="1">1. They stand in need of the Spirit of power,
+<note place="margin">They need the Spirit of pow<g ref="char:EOLhyphen"/>er.</note> first to differ<g ref="char:EOLhyphen"/>ence and distinguish them from reprobates and devils: for with<g ref="char:EOLhyphen"/>out the gift of the Spirit there is no difference, betweene us and them. For <hi>Michael</hi> doth not differ from the devil, nor <hi>Gabriel</hi> from <hi>Belzebub,</hi> but only by the Spirit. And <hi>Moses</hi> differs not from <hi>Pharow,</hi> nor <hi>Abel</hi> from <hi>Cain,</hi> nor <hi>Iacob</hi> from <hi>Esaw,</hi> nor <hi>Peter</hi> from <hi>Iudas,</hi> in regard of their <hi>substance,</hi> but in regard of
+<pb n="28" facs="tcp:158478:21"/>the <hi>Spirit</hi> which the one received and the other were counted unworthy of.</p>
+            <p n="2">2. To advance them above the condition of flesh and blood, and above all those in whom is none of Gods Spirit. The ex<g ref="char:EOLhyphen"/>cellencie of each creature is, according to its Spirit, for the more excellent the spirit of the creature is, the more excellent is the creature it selfe, and each creature is valued and rated ac<g ref="char:EOLhyphen"/>cording to the Spirit of it. How excellent then must they be a<g ref="char:EOLhyphen"/>bove all the World, who have received the spirit that is of God? Surely these are people of the most excellent spirit: And hence it is that the righteous is more excellent then his neighbour, because his spirit is more excellent then his neighbourss</p>
+            <p n="3">3. To unite them unto Christ. The spirit is the bond of u<g ref="char:EOLhyphen"/>nion betweene the Father and the son in the Godhead, and the father and the son are one in the Spirit (as wee speake before) And now the same spirit is our bond of union with <hi>Christ,</hi> and makes us one with Christ, as Christ is one with God, and unites us unto Christ in the unity of God, for as Christ is one with the Father in the spirit, so are we one with Christ in the spirit: For he that is joyned to the Lord is one Spirit, and he that is not one spirit with the Lord, is not joyned to him.</p>
+            <p n="4">4.
+<note place="margin">They need the power of the Spirit</note> All faithfull Christians stand in need of the power of the spirit as well as of the spirit of power.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. To change their natures, which is impossible to all power, but the power of the spirit.
+<note place="margin">To change their nature.</note> It would be a great power to change clay into Gold, and a pibble into a Diamond, but it is a greater change that is wrought in a Christian and requires a greater power. For the power of the spirit, when it comes into our flesh, changes the nature of it. For it finds a man carnall it makes him spirituall, it finds him earthly, it makes him heavenly, it finds him a drunkard, it makes him sober, an adulterer, it makes him chast a swearer, it makes him feare an oath proud it makes him humble, it finds him darknesse, makes him light in the Lord, in a word it finds him nothing but a lump of sin, and makes him the righteousnesse of God in Christ. Thus the power of the spi<g ref="char:EOLhyphen"/>rit, changes our whole corrupt nature, and makes it conform<g ref="char:EOLhyphen"/>able to the divine nature; as fire makes the Iron in which it prevailes, like unto it selfe, communicating its own nature to it.
+<pb n="29" facs="tcp:158478:21"/>After this sort the power of the spirit changes our nature, and our nature cannot be changed without it. But without this power of the spirit, we shall alwayes remaine the same we were borne, without any change at all. Yea our corruption will by dayly use and encrease, increase in us till at last it quite eate out that common naturall good, which God hath given to every one of us, for the common benefit of mankind.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. All Christians have need of the power of the spirit to worke grace in them.
+<note place="margin">To worke Grace.</note> For our natures are wholly carnall and corrupt, and nothing can implant grace in them, but the mighty power of Gods spirit. And it is as great a miracle, to see the Grace of God dwelling in the corrupt nature of man as to see the Starres grow upon the earth. And yet the power of the spirit doth this, as it is written,
+<note n="a" place="margin">Psal. 25.11. 2 Pet. 1.14.</note>
+               <hi>truth shall spring out of the earth.</hi> And againe <hi>great and precious promises are made to us, that we should be partakers of the divine nature;</hi> And againe, <hi>he hath pre<g ref="char:EOLhyphen"/>destinated us that we should be conformable to the Image of his son.</hi> That is, as in other things, so also in all his vertues. So that the power of the Spirit implants grace in our nature, and each grace is so much of the power of the Spirit in our flesh, as was said be<g ref="char:EOLhyphen"/>fore. Wherefore we must needs learne to know, whose power, the power of grace is. For though grace be a power in our flesh, it is not the power of our flesh: for <hi>Paul</hi> saith, <hi>in me, that is in my flesh, dwells no good thing,</hi> but and if any good be in my flesh, it dwells not in my flesh, but in Gods spirit which dwells in me. As light as in the ayre, but dwells in the Sun, so when men are regenerate good is in the flesh, but dwells in the spirit. For grace in the soule is nothing but so much of the power of the spirit immediately dwelling and working in us; and when the spirit is gone, all grace goes along with him as all light with the Sun; but it dwells in him, and inseparable from him.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. All Christians stand in need of the power of the spirit,
+<note place="margin">To mortify sin.</note> to inable them to mortifie and destroy sin. There is no power in our flesh against sin, but all the power of our flesh is for it: and therefore it must be another power, then the power of our flesh, that must destroy sin, and that can be no other then the power of Gods spirit. And the power of the spirit destroyes the whole body of sin, and each particular strong corruption.</p>
+            <p n="1">
+               <pb n="30" facs="tcp:158478:22"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. The whose body of sin, in all the parts and members and branches of it;
+<note place="margin">The whole bo<g ref="char:EOLhyphen"/>dy of sin.</note> each severall influence and operation of the spirit being a severall destruction of some sin or other. For as the spi<g ref="char:EOLhyphen"/>rit that is in us lusts after envy, or pride, or vainglory, or co<g ref="char:EOLhyphen"/>vetuousnesse, or uncleannesse or the like; so the Spirit we have of God according to its mighty power, destroyes all those sin<g ref="char:EOLhyphen"/>full workes of our corrupt Spirit, and mortifies all the deeds of our flesh,
+<note place="margin">Rom. 8.13.</note> according to that of <hi>Paul, if yee mortify the deeds of the flesh by the Spirit, ye shall live:</hi> The flesh will never mortify its own deeds, but the spirit must mortify the deeds of the flesh, and this will mortify them according to the whole Lati<g ref="char:EOLhyphen"/>tude of them.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Againe as the power of the spirit subdues the whole body of sin,
+<note place="margin">Particular strong corrup<g ref="char:EOLhyphen"/>tions.</note> so also it overpowers each particular strong corruption, and keeps a Christian straight and upright in the wayes of God. Every man hath some one corruption, to which by nature he is more inclined then to another, and this is the by as of a man, but the strength of the Spirit, will overpower this. A boule if it be throwen with strength knowes not its byas, but is carried on strait as if it had no by as at all. So the Godly have still some flesh in them which is their byas, and carries them from God to themselves and the World, but the strength of the spirit takes a<g ref="char:EOLhyphen"/>way this byas, and makes us take strength steep to God.</p>
+            <p n="4">
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. All Christians stand in need of the power of the Spirit to inable them to performe duties;
+<note place="margin">To performe duties.</note> to performe them aright that is spiritually. For spirituall duties may be performed for the outward worke carnally; and in such duties there is no strength but weaknesse, because there is none of the Spirit of them. For there is no power in any duty, except there be something of the spirit in the duty. There is no more power in praying, nor in preaching nor in hearing, nor in meditation, nor in reading, nor in resisting evil, nor in doing good, nor in any duty of sanctifica<g ref="char:EOLhyphen"/>tion, or of mortifycation, then there is of the Spirit in them.</p>
+            <p>And according to the measure of the spirit in each duty, is the measure of power in the duty. If there be none of the Spirit in a mans duties, there is no power at all in them, but onely weaknesse and deadnesse and coldnesse and unprofitablenesse. If a little of the spirit, there is a little power; if aboundance of
+<pb n="31" facs="tcp:158478:22"/>the Spirit, there is great power, and that duty that is most spiri<g ref="char:EOLhyphen"/>tuall, is the most powerfull. And therefore saith <hi>Paul, I will pray with the Spirit,</hi> and I <hi>will sing with the spirit,</hi> and all the worship of the faithfull is in the spirit. Phillip. 3.3. <hi>We are the Circumcision which worship God in the Spirit, and have no confi<g ref="char:EOLhyphen"/>dence in the flesh.</hi> So that there is no more <hi>power</hi> in any duty then there is of the <hi>Spirit</hi> in it, and there is no more acceptance of any duty with God, then there is of power in it.</p>
+            <p>Fiftly,
+<note place="margin">To inable them to the use of the word. In private.</note> all Christians stand in need of the Power of the Spi<g ref="char:EOLhyphen"/>rit, to inable them to the use of the Word, and that both in pri<g ref="char:EOLhyphen"/>vate, and in publique, as occasion serves.</p>
+            <p n="1">1. In private; for no man can say, that Jesus is the Christ but by the Holy-Ghost. No man can speak of Christ spiritually, but by the Spirit; and without this spirit, which searches the deep things of God, and reveals them to us, Christians are unable to give the Sense of the Word of God in their families, and among their friends, and acquaintance; and are also ashamed to do it. Whereas the Spirit of God gives both ability, and boldnesse: as <hi>Aquila</hi> and <hi>Priscilla</hi> his wife, did not only speak the word in their family, but also took <hi>Apollos</hi> a Minister, home,
+<note place="margin">
+                  <hi>Act.</hi> 18.26.</note> when they perceived him somewhat ignorant in the mistery of Christ, <hi>and instructed him in the way of God more perfectly.</hi>
+            </p>
+            <p n="2">2. They have need of the power of the spirit to inable them to speak the word of God in <hi>publike,</hi> as every Christian may do,
+<note place="margin">In publike.</note> if he come where people are ignorant of Gods Word and there be no Minister to do it. This I say in such a case he may do by vertue of his <hi>anointing</hi> with the spirit; And for this you may see the practise of <hi>Stephen</hi> and <hi>Philip;</hi> who were but Deacons, and not Elders or Ministers, and yet published the Word, where the people were ignorant; yea you may see <hi>Act.</hi> 8. how all the Disciples except the Apostles, were by reason of a great persecu<g ref="char:EOLhyphen"/>tion scattered throughout the regions of <hi>Iudea,</hi> and <hi>Samaria,</hi> and they that <hi>were so scattered, went every where preaching the Word</hi> because the people among which they were, were igno<g ref="char:EOLhyphen"/>rant, and there was no body else to do it. And God having made known Christ unto them, they could not, but declare him unto others, the love both of Christ, and of their brethren constraining them. But this is in case of necessity, and <hi>where
+<pb n="32" facs="tcp:158478:23"/>other faithfull Christians</hi> are absent: otherwise when Christians are present, <hi>no man can take that to himselfe without the consent of all, which belongs to all.</hi>
+            </p>
+            <p>Sixtly,
+<note place="margin">To inable them to con<g ref="char:EOLhyphen"/>fesse the word.</note> all Christians stand in need of this power of the spirit, to inable them to confesse the word, before Kings, and Rulers, and Magistrates, when they are called thereunto. Whereas with<g ref="char:EOLhyphen"/>out this power they would tremble, and bite in the truth. In the 10. <hi>Chap.</hi> of <hi>Mat.</hi> Christ tels his Disciples <hi>that they should be brought before Governours and Kings, for his names sake.</hi> But saith he, <hi>vers.</hi> 19. <hi>when they shall deliver you up, take no thought, how, or what ye shall speak, for it shall be given you in that same hour, what ye shall speak. For it is not ye that speak, but the Spirit of your Father that speaketh in you.</hi> Here Christ tels his Disci<g ref="char:EOLhyphen"/>ples that they should be brought before great men, yea before the greatest in the world, to give testimony to his truth. And surely, it is a very hard thing, for a man not to be daunted then, but to be vnmoveable, before all worldly power and glory, and all the terrible frounes and threats of mighty men. Now saith Christ at such a time, when you are to speak before the armed power of the world, be not troubled beforehand, how, or what to say. For if you have Christ and his Spirit in your hearts, you cannot want words in your mouthes. And the truth which you professe is most <hi>glorious,</hi> when it is most <hi>naked,</hi> and destitute of the garnishings of humane eloquence, and wisdome. And there<g ref="char:EOLhyphen"/>fore be not <hi>fearfull</hi> before hand, no nor yet <hi>carefull,</hi> touching what you shall say; for it shall be given to you in that same hour, in that same moment; you shall have most present help. How so? for it is not ye that speak, but the Spirit of your Fa<g ref="char:EOLhyphen"/>ther that dwels in you. The spirit of truth that dwels in you, shall inable you to speak the words of truth, when you are called to it. And though you, it may be, are plain and mean men, and your lips would tremble, and be quite closed up, before such an Assembly of power, and Majesty, yet Gods spirit shall give you a <hi>mouth</hi> to speak even then. And because if you were only sup<g ref="char:EOLhyphen"/>plied with a mouth to speak at such a time, you would be rea<g ref="char:EOLhyphen"/>dy to speak rashly, and foolishly, to the great prejudice, and disadvantage of the truth, therefore he will give you not only <hi>a mouth, but wisdom too;</hi> and he himself, will mannage his own
+<pb n="33" facs="tcp:158478:23"/>cause with your mouthes. And you shall so speake as all your adversaries shall not be able to tesist the truth that you speake, but shal be so convinced in their consciences, that their tongues shall not know what to say. You shall have a mouth and wis<g ref="char:EOLhyphen"/>dome, and they shall want both.</p>
+            <p>And thus have many poore meane simple Christians, when brought before Rulers and Magistrates, beene able to carry out the truth in that strength, that all their adversaries have beene put to silence and shame, as you may see in a multitude of ex<g ref="char:EOLhyphen"/>amples in the Booke of Martyrs. And all this they did <hi>by the power of the Spirit comming upon them.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> Seventhly, and lastly, all Christians stand in need of the po<g ref="char:EOLhyphen"/>wer of the Spirit, to overcome afflictions and persecutions,
+<note place="margin">To overcome afflictions and persecutions.</note> from which it is impossible they should be free in this world, they being contrary to the world, and the whole world to them. A naturall man, who hath no strength in himselfe but his owne strength, faints and failes under affliction and perse<g ref="char:EOLhyphen"/>cution: but the faithfull have in them strength above naturall strength, strength above the strength of men, even the strength of the Spirit comming on them, and so they indure and over<g ref="char:EOLhyphen"/>come. Our spirits are weake spirits, and are conquered by e<g ref="char:EOLhyphen"/>very evill, but when they are strengthned by the power of Gods Spirit, they are over all evils more then Conquerors. And this is one thing observable betweene naturall and spiri<g ref="char:EOLhyphen"/>tuall strength in the overcomming of evill. Naturall strength seekes alwayes to throw off the evill, and so it prevailes: but spirituall strength never seekes the removing of the evill, but let the evill be what it will, it stands to it, and overcomes it. For the strength of the Spirit is easily able to overcome all e<g ref="char:EOLhyphen"/>vils that can happen to flesh and bloud, whether they arise from earth or hell. And thus those blessed Martyrs mentioned <hi>Hebr.</hi> 11. and thousands and ten thousands of their consorts, since, have overcome cruell mockings &amp; scourgings, and bonds, ane imprisonment, and stoning, and sawing in sunder, and slay<g ref="char:EOLhyphen"/>ing with the sword, and all the woes of poverty and want, and banishment, and of living in wildernesses and caves, and dens of the earth, these and all other evils they have mightily overcome by this only power of the Spirit comming upon
+<pb n="34" facs="tcp:158478:24"/>them. Thus we stand in need of the power of the Spirit to o<g ref="char:EOLhyphen"/>vercome affliction and persecution, and how much power we have in affliction and persecution, to indure them and over<g ref="char:EOLhyphen"/>come them, just so much of the power of the Spirit we have and no more.</p>
+            <p>And thus also have I declared unto you what necessity all Christians have of the power of the Spirit comming on them as well as Ministers. And this was to strengthen the use of ex<g ref="char:EOLhyphen"/>hortation.</p>
+            <p>The second Use,
+<note place="margin">Second use.</note> is for information and instruction, after this manner. If the receiving of the Spirit be the receiving of power, then it clearly informes us, that the way to partake of this power, is to obtaine this Spirit: and the way to increase this power, is to increase this Spirit. I shall endeavour to speake to both these things, and so shall conclude.</p>
+            <p n="1">1. The way to obtaine this power is to obtain the Spirit.</p>
+            <p>And that we may <hi>obtaine</hi> the Spirit, we must first <hi>prepare</hi> our selves to receive the Spirit.</p>
+            <p>Now this preparation doth not stand (as Papists teach,
+<note place="margin">The way to get this power is to get this Spirit. To this end we must must prepare our selves. Wherein pre<g ref="char:EOLhyphen"/>paration doth not consist.</note> and many ignorant persons among our selves thinke) in sweeping the soule from sin, and then strewing it with graces, that so we may be fit to receive the Spirit.</p>
+            <p>For first, the sweeping of the soule from sin is not a worke of our owne before the comming of the Spirit, but a worke of the Spirit it selfe after it is come. For no flesh can cleare the soule of one sin, it is the Spirit must doe that.</p>
+            <p>And secondly, for the strewing of the soule with grace, nei<g ref="char:EOLhyphen"/>ther is this a worke of our owne, but a worke of the Spirit it selfe after it is come. For the Spirit it selfe brings all grace with it, and before the comming of the Spirit, there is no grace at all.</p>
+            <p>So that we cannot by any acts of our owne prepare our selves to receive the Spirit;
+<note place="margin">Wherein it doth.</note> but only <hi>by the Spirit</hi> we prepare our selves <hi>to receive the Spirit.</hi> For it is not any worke of our owne upon our selves, but the immediate worke of the Holy Ghost upon us, that can make us fit to receive himselfe. It lyes wholly in his owne power and goodnesse, first to prepare in us a place for himselfe, and then after to receive and entertaine
+<pb n="35" facs="tcp:158478:24"/>himselfe in that place he hath so prepared. Now the workes of the Spirit, whereby he first prepares us for himselfe, and then entertaines himselfe in us, are these two especially.</p>
+            <p n="1">1. He empties us; and 2. he fills us with himselfe, whom he hath made empty.</p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. He emptyes us. And this emptying is the first and chief worke of the Spirit upon the Elect,
+<note place="margin">The Holy Ghost empties us.</note> whereby he prepares them to receive himselfe. For the more empty a man is of other things, the more capable he is of the Spirit. If you would fill a vessell with any other liquor then it holds, you must first empty it of all that is in it before; if you would fill it with Wine, you must empty it of Beere or Water, if any such liquor be in it. For two materiall things cannot possibly subsist in the same place, at the same time, the substances of each being safe and sound. And so if the Holy Ghost who is God, must come into us, all mortall and unstable creatures, together with sin and our selves, and what ever else is in us, must goe forth. Hu<g ref="char:EOLhyphen"/>mane reason, and humane wisedome, and righteousnesse, and power, and knowledge, cannot receive the Holy Ghost, but we must be emptied of these if ever we would receive him.</p>
+            <p>We must thus suffer our selves to be prepared by the Spirit,
+<note place="margin">A caution.</note> to receive the Spirit, but with this caution, That when the Spirit of God hath wrought this in us, we doe not attribute it to our selves as our owne worke, nor thinke any thing of our selves, but descend into our owne meere nothing. Otherwise we shall be a hindraance to the Spirit, that he cannot worke in us after a more excellent manner. And when a man is thus empty of himselfe and of other things, then he becomes poore in spirit, and such the Spirit alwayes fils, and descends into with a wonderfull and unresistable power, and fils the outer and inner man, and all the superior and inferior faculties of the soule, with himselfe and all the things of God.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> And this is the second work of the Spirit to fill those whom he hath emptied. Now the usuall and ordinary means through which the Spirit doth this are these three.
+<note place="margin">Fills us. The meanes are, 1. The hear<g ref="char:EOLhyphen"/>ing of the. VVord.</note>
+            </p>
+            <p n="1">1. <hi>The hearing of the Word</hi> preached. But here we must di<g ref="char:EOLhyphen"/>stinguish of the Word. For the Law is the word of God, but St. <hi>Paul</hi> saith that by that word <hi>the Spirit is not given,</hi> but by
+<pb n="36" facs="tcp:158478:25"/>the Word of the Gospel. And therefore how <hi>beautifull are the feet of them that bring the Gospel of peace?</hi> for nothing is so sweet and precious as the word of the Gospel, which brings with it the Holy Ghost. This you may see Act. 10.44. where it is said, <hi>that whilest Peter yet spake, the Holy Ghost fell on all them that heard the Word.</hi> And therefore also the Gospel is called the <hi>ministration of the Spirit;</hi> because as it proceeds from the Spirit, and the Holy Ghost gives utterance, so it also con<g ref="char:EOLhyphen"/>veyes the Spirit to the faithfull. Now the gift of tongues and miracles, and other such like gifts are ceased in the Church, but the gift of the Spirit is not ceased, and this the Lord still joynes with the outward Ministrie of the Gospel, that he may keepe up in our hearts the due respect of this ordinance, and may preserve us from the wayes of those men who seeke for the Spirit without the Word.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Meanes, is <hi>faith</hi> in the word
+<note place="margin">Faith.</note> heard. For it is not every one that heares the word, that receives the Spirit, but onely they that heare with the hearing of faith. For if thou heare the word of the Gospel a thousand times, and wantest faith, thou shalt never receive the Spirit, for unbeleefe shuts up the heart against the Spirit, and ever opposes and resists the Spirit, and never receives it. But faith opens the heart to receive the Spirit.</p>
+            <p>By faith we lay hold on Christ in the word, and through our union with Christ we obtaine the Spirit. For we have not the Spirit immediately in it selfe, but in the flesh of Christ. And when we by faith are made the flesh of Christ, then wee partake of that Spirit that dwels in the flesh of Christ.</p>
+            <p>Now through these two things the Word and Faith, the Spirit communicates to us <hi>a new birth,</hi> it begets us unto God and so we partaking of the nature of God, partake also of the Spirit of God. They that are borne of men, have nothing in them but the spirit of men, but they that are borne of God have the Spirit of God. That which is borne of the flesh is flesh, and hath no spirit in it; but that which is borne of the Spirit is spirit, and hath spirit in it. So that there is no means to partake of the Spirit of God, but by being borne of God: and the meanes by which we are borne of God, are the Word and Faith.</p>
+            <p n="3">
+               <pb n="37" facs="tcp:158478:25"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. Meanes is Prayer.
+<note place="margin">Prayer.</note> For Christ hath said, <hi>the Spirit is gi<g ref="char:EOLhyphen"/>ven to them that aske.</hi> And the Disciples when they were to receive the promise of the Spirit, <hi>continued with one accord in prayer and su<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>plication.</hi> Act. 1.14. For God who hath promi<g ref="char:EOLhyphen"/>sed to give us his Spirit, hath commanded us to aske it: and when God hath a minde to give us the Spirit, hee puts us in minde to ask it: yea God gives us the Spirit, that by it wee may ask the Spirit, seeing no man can aske the Spirit but by the Spirit. Now in asking the Spirit there is no difference whether we aske it of the Father or of the Son, seeing the Spi<g ref="char:EOLhyphen"/>rit proceeds from both, and is the Spirit of both. And there<g ref="char:EOLhyphen"/>fore Christ promiseth the sending of the Spirit from both. From the Father, Joh. 14. <hi>The Spirit which the Father will send in my name.</hi> From himselfe, Joh. 16. <hi>Except I goe the Comfor<g ref="char:EOLhyphen"/>ter will not come, but if I goe I will send him to you.</hi> So that both the Father and the Son give the Spirit, and it is no matter whether we aske him either of the Father or of the Son, so we aske him of the Father in the Son, or of the Son in the Fa<g ref="char:EOLhyphen"/>ther.</p>
+            <p>And thus you see the way to obtaine this power is to ob<g ref="char:EOLhyphen"/>taine the Spirit, and also by what meanes this is done.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. The way to increase this power is to increase the Spirit. And therefore it is as needfull for us to know the meanes to increase the Spirit, as to receive it.
+<note place="margin">The way to increase this power.</note> And they among others are these:</p>
+            <p n="1">1. To continue in the use of the Word. As the Spirit is first given by the word, so by the same word it is increased; and the more any Christian is in the use of the word, the stronger and more vigorous and mighty is the Spirit in him: but the neglect of the word is the quenching of the Spirit. Let a Chri<g ref="char:EOLhyphen"/>stian that is strong in the spirit neglect the word a while, and he will soone become weake, and as a man without strength. For the Spirit is not bestowed on us but through the word, neither doth it dwell in us but by the word, and the more the word dwels in our hearts by faith, the more the spirit dwells in our hearts by the word. And according to the measure of the word in us is the measure of the Spirit.</p>
+            <p n="2">2. To increase faith. For the more we beleeve, the more
+<pb n="38" facs="tcp:158478:26"/>we receive of Christ; and the more we receive of Christ, the more we receive of the spirit in Christ. For faith doth not ap<g ref="char:EOLhyphen"/>prehend bare Christ, but Christ with his Spirit, because these are inseparable. Now alwayes according to the measure of Christ in us, is the measure of the spirit, and according to the measure of faith is the measure of Christ in us.</p>
+            <p n="3">3. To be much in prayer. For the prayer of the spirit in<g ref="char:EOLhyphen"/>creases the spirit. The more we have the spirit, the more we pray, and the more we pray, the more we receive the spirit. So that when we have the spirit in truth, we shall have daily a greater and greater increase of it, till we be filled with the spi<g ref="char:EOLhyphen"/>rit. For the spirit comes from Christ, in whom is the fulnesse of the spirit, and carries us backe againe to Christ, that we may receive still more of the spirit. And so by the spirit that is in our hearts, we lay hold on the spirit that is in Christ, and re<g ref="char:EOLhyphen"/>ceive more and more of it.</p>
+            <p n="4">4. To turne our selves daily from the creature to God. For the more we inlarge our hearts towards the creature, the lesse capable are we of the Spirit of God. For to live much upon the creature, is to live much according to the flesh, and this quenches and straitens the spirit in us. And therefore we must live abstractedly from the creatures, and so use them as if we did not use them, and so minde them as if we did not minde them, and abandon the contents and satisfactions of flesh and blood, and weane our selves from all things but the necessi<g ref="char:EOLhyphen"/>ties of nature. And the more free and loose we are from the creature, the more capable are we of Gods spirit and the ope<g ref="char:EOLhyphen"/>rations of it. He that lives at greatest distance from the world, and hath least communion with the things of it, hath alwaies the greatest proportion of Gods spirit. For as the Apostle saith, <hi>If any man love the world, the love of the Father</hi> (that is, the Holy Ghost) <hi>is not in him:</hi> so if any love the Father, the love of the world is not in him: now the more any one loves the Father, the lesse he loves the world, and the lesse he loves the world, the more the spirit dwels in him.</p>
+            <p n="5">5. To cease daily from our owne workes. The more wee act our selves, the lesse doth the spirit act in us. And there<g ref="char:EOLhyphen"/>fore we must from day to day cease from our owne workes,
+<pb n="39" facs="tcp:158478:26"/>from the operations of our owne mindes, and understanding, and wils, and affections, and must not be the authors of our owne actions. For we being flesh our selves, what ever we do is fleshly, seeing the effect cannot be better then the cause. And if we mingle the workes of our flesh with the workes of Gods Spirit, he will cease from working in us. But the lesse we act in our selves according to the principles of our corrupt nature, the more will the spirit act in us according to the prin<g ref="char:EOLhyphen"/>ciples of the divine nature. But our owne workes are alwaies a mighty impediment to the operations of the spirit.</p>
+            <p n="6">6. To increase the spirit in us, we must give up our selves to the Spirit, that he only may worke in us, without the least op<g ref="char:EOLhyphen"/>position and resistance from us. That as the soule acts all in the body, and the body doth nothing of it selfe, but is subject to the soule in all things, so the spirit may doe all in us, and we may doe nothing of our selves without the spirit, but be sub<g ref="char:EOLhyphen"/>ject to the Spirit in all its operations. For the spirit of God cannot worke excellently in us, except it worke all in all in us. And in such a man in whom the Spirit hath full power, the spirit workes many wonderfull things, that he according to humane sense is ignorant of. For as the soule doth secretly nourish, and cherish, and refresh the body, and disperses life and spirits through it, even when the body is asleepe, and nei<g ref="char:EOLhyphen"/>ther feeles it nor knowes it: so the Holy Ghost dwelling in the soule, by a secret kinde of operation workes many things in it, for the quickning and renewing it, whilest it oftentimes for the present is not so much as sensible of it.</p>
+            <p n="7">7. The seventh meanes to increase the spirit, is to attribute the workes of the spirit to the spirit, and not to our selves. For if we attribute to the flesh the workes of the spirit, and take from the Spirit the glory of his owne workes, he will worke no longer in us. Wherefore we must ascribe unto the spirit the whole glory of his owne workes, and acknowledge that wee our selves are nothing, and can doe nothing, and that it is hee only that is all in all, and workes all in all, and we our selves among all the excellent workes of the Spirit, must so remaine, as if we were and wrought nothing at all; that so all all that is of flesh and blood may be laid low in us, and the spirit alone
+<pb n="40" facs="tcp:158478:27"/>may be exalted, first to doe all in us, and then to have all the glory, of all that is done.</p>
+            <p>And thus you see the meanes to increase the Spirit, and so consequently strength, as well as to get it. And by the daily use and improvement of these meanes, we may attaine to a great degree of spirituall strength, that we may walke and not be weary, and may run and not faint, and may mount up as Eagles, yea and may walke as Angels among men, and as the powers of heaven upon earth, to his praise and honour, who first communicates to us his owne strength, and then by that strength of his owne, works all our workes in us: And thus is he <hi>glorified in his Saints, and admired in all them that beleeve.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
